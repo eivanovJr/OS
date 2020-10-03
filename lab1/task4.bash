@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ $HOME == $PWD ]]
+if [[ $PWD == $HOME* ]]
 then
 echo $HOME
 exit 0
