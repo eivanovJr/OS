@@ -1,3 +1,21 @@
 #!/bin/bash
 
-ps o pid,start_time --sort=start_time | tail -n 1 | awk '{print $1}'
+echo "1. Open nano"
+echo "2. Open vi"
+echo "3. Open links"
+echo "4. Exit"
+read choice
+case $choice in
+1 )
+nano
+;;
+2 )
+vi
+;;
+3 )
+links
+;;
+4 )
+exit o
+;;
+esac

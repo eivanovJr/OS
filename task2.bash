@@ -1,3 +1,11 @@
 #!/bin/bash
 
-ps axo pid,command | grep "/sbin/" | awk '{ print $1 }'
+read str
+while [[ "$str" != "q" ]]
+do
+result="$result$str"
+read str
+done
+echo $result
+exit 0
+

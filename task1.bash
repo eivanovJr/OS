@@ -1,6 +1,14 @@
 #!/bin/bash
 
-temp="$(ps -u user o pid,command | tail -n +2 | sed -r "s/\s*([0-9]+)\s(.+)$/\1:\2/")"
+max=$1
+if [[ "$2" -gt "$max" ]]
+then max=$2
+fi
 
-echo "$(wc -l <<< "$temp")" > answer1.bash
-echo "$temp" >> answer1.bash
+if [[ "$3" -gt "$max" ]]
+then max=$3
+fi
+
+echo "$max"
+exit 0
+
