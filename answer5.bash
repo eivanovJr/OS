@@ -1,0 +1,8 @@
+Average_Sleeping_Children_of_ParentID=0 is 0.226
+Average_Sleeping_Children_of_ParentID=1 is 0.453
+Average_Sleeping_Children_of_ParentID=2 is 0.069
+Average_Sleeping_Children_of_ParentID=834 is 0.260
+Average_Sleeping_Children_of_ParentID=850 is 0.058
+Average_Sleeping_Children_of_ParentID=1122 is 0.651
+Average_Sleeping_Children_of_ParentID=1417 is 0.359
+Average_Sleeping_Children_of_ParentID=1428 is 1.198
