@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [[ ! -d "/home/user/restore" ]]
+then
+	mkdir "/home/user/restore"
+fi
+
+prev_backup=$(ls /home/user | grep -E "Backup" | sort -n | tail -1)
+prev_date=$(echo "$prev_backup" | sed "s/Backup-//")
+
+if [[ "$prev_backup" == "" ]]
+then
+	echo "No backups!"
+	exit 1
+fi
+
+for line in $(ls "/home/user/$prev_backup" | grep -vE "[0-9]{4}-[0-9]{2}-[0-9]{2}")
+do
+	cp "/home/user/$prev_backup/$line" "/home/user/restore/$line"
+done

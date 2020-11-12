@@ -1,0 +1,60 @@
+#!/bin/bash
+
+if [[ $# -ne 1 ]]
+then
+	echo "Should be 1 argument"
+	exit 1
+fi
+
+trash="$HOME/.trash"
+trash_log="$HOME/.trash.log"
+if [[ ! -d $trash ]]
+then
+	echo "Trash doesn't exist"
+	exit 1
+fi
+
+if [[ ! -e $trash_log ]]
+then
+	echo "Trash log doesn't exist"
+	exit 1
+fi
+
+if [[ $(grep -E "$1" $trash_log) == "" ]]
+then
+	echo "$1 doesn't exist in trash.log"
+	exit 1
+fi
+echo $(grep -E "$1" $trash_log) | 
+while read line
+do
+	file=$(echo "$line" | awk '{print $1}')
+	reference=$(echo "$line" | awk '{print $2}')
+	read -p "recover file $file (y/n)?" answer <&1
+	case $answer in
+		"y")
+			path=$(echo "$file" | awk -F"/$1" '{print $1}')
+			if [[ ! -d $path ]]
+			then
+				echo "Directory not found. File will be stored in $HOME"
+				path="$HOME/$renamed"
+			fi
+			if [[ -f $file ]]
+			then
+				read -p "File $file already exists, type a new name: " renamed <&1
+				ln "$reference" "$path/$renamed"
+				rm "$reference"
+			else
+				ln "$reference" "$path/$1"
+				rm "$reference"
+			fi
+			grep -vE "$reference" $trash_log > .tempfile
+			cat .tempfile > $trash_log
+			rm .tempfile
+
+			;;
+		*)
+			:
+			;;
+	esac
+done

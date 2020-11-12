@@ -1,0 +1,49 @@
+#!/bin/bash
+
+home="/home/user"
+prev_backup=$(ls "$home" | grep -E "Backup" | sort -n | tail -1)
+now=$(date +"%Y-%m-%d")
+now_compare=$(date -d "$now" +"%s")
+prev_date=$(echo "$backup_prev" | sed "s/Backup-//")
+prev_compare=$(date -d "$prev_date" +"%s")
+diff=$(echo "(${now_compare} - ${prev_compare}) / (3600 * 24)" | bc)
+
+if [[ ! -d "$home/source" ]]
+then
+	echo "dir source in $home doesn't exist"
+	exit 1
+fi
+
+if [[ "$diff" -ge 7 ]] || [[ "$prev_backup" == "" ]]
+then
+	mkdir "$home/Backup-${now}"
+	for line in $(ls "$home/source")
+	do
+		cp "$home/source/$line" "$home/Backup-${now}"	
+	done
+	cd "$home/Backup-${now}"
+	echo -e "new Backup. Creation date: ${now} \nFiles : $(ls | tr '\n' ' ')\n" >> "$home/backup-report"
+else
+	> changed_files
+	> new_files
+	for line in $(ls "$home/source")
+	do
+		if [[ ! -f "$home/$prev_backup/$line" ]]
+		then
+			cp "$home/source/$line" "$home/$prev_backup/$line"
+			echo $line >> new_files
+		else
+			current_size=$(wc -c "$home/source/$line" | awk '{print $1}')
+			prev_size=$(wc -c "$home/$prev_backup/$line" | awk '{print $1}')
+			if [[ "$current_size" -ne "$prev_size" ]]
+			then
+				mv "$home/$prev_backup/$line" "$home/$prev_backup/$line-${now}"
+				echo "$line to $line-${now}" >> changed_files 
+				cp "$home/source/$line" "$home/$prev_backup/$line" 
+			fi
+		fi
+	done
+	echo -e "Changed Backup $prev_backup \nNew files :\n$(cat new_files)\nChanged files :\n$(cat changed_files)" >> "$home/backup-report"
+	rm changed_files
+	rm new_files
+fi

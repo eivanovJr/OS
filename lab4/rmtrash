@@ -1,0 +1,32 @@
+#!/bin/bash
+
+number=$(cat numstorage)
+
+if [[ $# -ne 1 ]]
+then
+	echo "Should be 1 argument"
+	exit 1
+fi
+
+if [[ ! -f $1 ]]
+then
+	echo "$1: File doesn't exist"
+	exit 1
+fi
+
+trash="$HOME/.trash"
+if [[ ! -d $trash ]]
+then
+	mkdir $trash
+fi
+
+temp_link="$PWD/$1"
+created="$trash/$number"
+
+ln "$temp_link" "$created"
+touch "$created"
+let number=number+1
+echo $number > numstorage
+rm $temp_link
+
+echo "$temp_link $created" >> "$HOME/.trash.log"
