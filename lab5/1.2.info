@@ -1,0 +1,2672 @@
+System parameters
+MiB Mem : 1827.1 total, 1529.8 free, 116.9 used, 180.3 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1566.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 225920 6728 3040 R 41.2 0.4 0:00.60 mem.bash 26791 user 20 0 225920 6444 3012 R 41.2 0.3 0:00.59 mem2.bash
+
+Five processes
+26790 user 20 0 228956 9632 3040 R 38.9 0.5 0:01.11 mem.bash 26791 user 20 0 228824 9612 3012 R 38.9 0.5 0:01.11 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1517.3 free, 129.4 used, 180.3 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1553.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 232256 12800 3040 R 41.2 0.7 0:01.71 mem.bash 26791 user 20 0 232256 12780 3012 R 41.2 0.7 0:01.71 mem2.bash
+
+Five processes
+26790 user 20 0 235028 15704 3040 R 38.9 0.8 0:02.22 mem.bash 26791 user 20 0 235028 15684 3012 R 38.9 0.8 0:02.23 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1505.3 free, 141.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1541.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 238328 19116 3012 R 50.0 1.0 0:02.83 mem2.bash 26790 user 20 0 238328 19136 3040 R 43.8 1.0 0:02.83 mem.bash
+
+Five processes
+26791 user 20 0 241100 21756 3012 R 60.0 1.2 0:03.33 mem2.bash 26790 user 20 0 241100 21776 3040 R 53.3 1.2 0:03.32 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1493.4 free, 153.3 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1529.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 244400 25208 3040 R 41.2 1.3 0:03.91 mem.bash 26791 user 20 0 244532 25188 3012 R 41.2 1.3 0:03.92 mem2.bash
+
+Five processes
+26790 user 20 0 247304 27848 3040 R 50.0 1.5 0:04.43 mem.bash 26791 user 20 0 247436 28092 3012 R 43.8 1.5 0:04.42 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1480.7 free, 166.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1516.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 251000 31524 3012 R 52.9 1.7 0:05.03 mem2.bash 26790 user 20 0 250736 31280 3040 R 41.2 1.7 0:05.02 mem.bash
+
+Five processes
+26790 user 20 0 254168 34976 3040 R 47.1 1.9 0:05.55 mem.bash 26791 user 20 0 254300 34956 3012 R 47.1 1.9 0:05.55 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1466.3 free, 180.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1502.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 258392 38916 3012 R 44.4 2.1 0:06.16 mem2.bash 26790 user 20 0 258128 38672 3040 R 38.9 2.1 0:06.15 mem.bash
+
+Five processes
+26790 user 20 0 261428 42104 3040 R 47.1 2.3 0:06.66 mem.bash 26791 user 20 0 261560 42348 3012 R 47.1 2.3 0:06.66 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1452.0 free, 194.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1488.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 265388 46064 3040 R 53.3 2.5 0:07.26 mem.bash 26791 user 20 0 265520 46308 3012 R 46.7 2.5 0:07.26 mem2.bash
+
+Five processes
+26791 user 20 0 269084 49740 3012 R 50.0 2.7 0:07.80 mem2.bash 26790 user 20 0 268820 49496 3040 R 44.4 2.6 0:07.79 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1437.6 free, 209.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1473.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 272912 53456 3040 R 52.9 2.9 0:08.41 mem.bash 26791 user 20 0 273044 53700 3012 R 41.2 2.9 0:08.40 mem2.bash
+
+Five processes
+26790 user 20 0 276212 56888 3040 R 47.1 3.0 0:08.92 mem.bash 26791 user 20 0 276476 57132 3012 R 47.1 3.1 0:08.93 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1423.1 free, 223.6 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1459.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 280436 61092 3012 R 50.0 3.3 0:09.54 mem2.bash 26790 user 20 0 280172 60848 3040 R 44.4 3.3 0:09.53 mem.bash
+
+Five processes
+26790 user 20 0 283736 64280 3040 R 52.6 3.4 0:10.07 mem.bash 26791 user 20 0 283868 64524 3012 R 36.8 3.4 0:10.05 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1408.3 free, 238.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1444.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 287696 68240 3040 R 42.1 3.6 0:10.68 mem.bash 26791 user 20 0 287960 68484 3012 R 36.8 3.7 0:10.67 mem2.bash
+
+Five processes
+26791 user 20 0 291260 71916 3012 R 44.4 3.8 0:11.19 mem2.bash 26790 user 20 0 290996 71672 3040 R 38.9 3.8 0:11.19 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1393.9 free, 252.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1430.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 295088 75632 3040 R 47.1 4.0 0:11.80 mem.bash 26791 user 20 0 295352 75876 3012 R 47.1 4.1 0:11.80 mem2.bash
+
+Five processes
+26790 user 20 0 298520 79064 3040 R 45.0 4.2 0:12.33 mem.bash 26791 user 20 0 298652 79308 3012 R 40.0 4.2 0:12.32 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1379.6 free, 267.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1415.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 302744 83268 3012 R 47.1 4.5 0:12.93 mem2.bash 26790 user 20 0 302348 83024 3040 R 41.2 4.4 0:12.92 mem.bash
+
+Five processes
+26791 user 20 0 306176 86700 3012 R 42.1 4.6 0:13.45 mem2.bash 26790 user 20 0 305780 86456 3040 R 36.8 4.6 0:13.44 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1365.3 free, 281.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1401.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 309608 90416 3040 R 46.7 4.8 0:14.04 mem.bash 26791 user 20 0 310004 90660 3012 R 46.7 4.8 0:14.05 mem2.bash
+
+Five processes
+26791 user 20 0 313436 94092 3012 R 47.1 5.0 0:14.57 mem2.bash 26790 user 20 0 313040 93584 3040 R 41.2 5.0 0:14.57 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1350.8 free, 295.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1387.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 317132 97808 3040 R 52.9 5.2 0:15.19 mem.bash 26791 user 20 0 317396 98052 3012 R 41.2 5.2 0:15.18 mem2.bash
+
+Five processes
+26790 user 20 0 320300 100976 3040 R 43.8 5.4 0:15.68 mem.bash 26791 user 20 0 320696 101220 3012 R 43.8 5.4 0:15.69 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1336.5 free, 310.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1372.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 324392 104936 3040 R 47.1 5.6 0:16.30 mem.bash 26791 user 20 0 324656 105444 3012 R 41.2 5.6 0:16.30 mem2.bash
+
+Five processes
+26790 user 20 0 327692 108368 3040 R 47.1 5.8 0:16.80 mem.bash 26791 user 20 0 327956 108612 3012 R 47.1 5.8 0:16.80 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1322.6 free, 324.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1358.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 331652 112308 3012 R 47.1 6.0 0:17.41 mem2.bash 26790 user 20 0 331520 112328 3040 R 41.2 6.0 0:17.41 mem.bash
+
+Five processes
+26790 user 20 0 334952 115760 3040 R 44.4 6.2 0:17.93 mem.bash 26791 user 20 0 334952 115740 3012 R 38.9 6.2 0:17.92 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1308.0 free, 338.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1344.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 339044 119720 3040 R 38.9 6.4 0:18.54 mem.bash 26791 user 20 0 339044 119700 3012 R 38.9 6.4 0:18.53 mem2.bash
+
+Five processes
+26790 user 20 0 342344 123152 3040 R 50.0 6.6 0:19.05 mem.bash 26791 user 20 0 342344 122868 3012 R 43.8 6.6 0:19.04 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1293.7 free, 353.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1329.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 346436 127092 3012 R 44.4 6.8 0:19.66 mem2.bash 26790 user 20 0 346436 127112 3040 R 38.9 6.8 0:19.66 mem.bash
+
+Five processes
+26791 user 20 0 349736 130260 3012 R 50.0 7.0 0:20.17 mem2.bash 26790 user 20 0 349736 130280 3040 R 43.8 7.0 0:20.16 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1279.5 free, 367.2 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1315.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 353696 134504 3040 R 50.0 7.2 0:20.79 mem.bash 26791 user 20 0 353696 134484 3012 R 38.9 7.2 0:20.78 mem2.bash
+
+Five processes
+26791 user 20 0 356996 137652 3012 R 47.1 7.4 0:21.29 mem2.bash 26790 user 20 0 356996 137672 3040 R 41.2 7.4 0:21.28 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1265.1 free, 381.6 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1301.3 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 361088 141632 3040 R 47.1 7.6 0:21.90 mem.bash 26791 user 20 0 361088 141612 3012 R 41.2 7.6 0:21.89 mem2.bash
+
+Five processes
+26791 user 20 0 364388 145044 3012 R 42.1 7.8 0:22.41 mem2.bash 26790 user 20 0 364388 145064 3040 R 36.8 7.8 0:22.40 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1250.7 free, 396.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1286.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 368348 149004 3012 R 50.0 8.0 0:23.03 mem2.bash 26790 user 20 0 368348 149024 3040 R 44.4 8.0 0:23.03 mem.bash
+
+Five processes
+26790 user 20 0 371648 152456 3040 R 47.1 8.1 0:23.54 mem.bash 26791 user 20 0 371648 152172 3012 R 47.1 8.1 0:23.53 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1236.5 free, 410.2 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1272.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 375740 156396 3012 R 53.3 8.4 0:24.15 mem2.bash 26790 user 20 0 375608 156416 3040 R 46.7 8.4 0:24.14 mem.bash
+
+Five processes
+26790 user 20 0 379040 159584 3040 R 52.9 8.5 0:24.65 mem.bash 26791 user 20 0 378908 159564 3012 R 41.2 8.5 0:24.64 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1222.3 free, 424.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1258.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 383000 163524 3012 R 52.9 8.7 0:25.26 mem2.bash 26790 user 20 0 382868 163544 3040 R 41.2 8.7 0:25.25 mem.bash
+
+Five processes
+26791 user 20 0 386300 166956 3012 R 47.1 8.9 0:25.77 mem2.bash 26790 user 20 0 386168 166976 3040 R 41.2 8.9 0:25.76 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1207.9 free, 438.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1244.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 390260 170936 3040 R 47.1 9.1 0:26.38 mem.bash 26791 user 20 0 390260 170916 3012 R 41.2 9.1 0:26.37 mem2.bash
+
+Five processes
+26790 user 20 0 393560 174104 3040 R 47.1 9.3 0:26.89 mem.bash 26791 user 20 0 393560 174348 3012 R 41.2 9.3 0:26.88 mem2.bash 895 root 20 0 635068 532 0 S 5.9 0.0 0:23.73 tuned 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 1193.6 free, 453.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1229.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 397652 178308 3012 R 50.0 9.5 0:27.52 mem2.bash 26790 user 20 0 397520 178328 3040 R 44.4 9.5 0:27.51 mem.bash
+
+Five processes
+26790 user 20 0 400952 181496 3040 R 50.0 9.7 0:28.03 mem.bash 26791 user 20 0 400952 181740 3012 R 43.8 9.7 0:28.02 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1179.3 free, 467.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1215.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 404912 185456 3040 R 43.8 9.9 0:28.63 mem.bash 26791 user 20 0 404912 185700 3012 R 43.8 9.9 0:28.63 mem2.bash
+
+Five processes
+26790 user 20 0 408080 188624 3040 R 60.0 10.1 0:29.14 mem.bash 26791 user 20 0 408080 188604 3012 R 46.7 10.1 0:29.13 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1165.3 free, 481.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1201.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 411908 192584 3040 R 50.0 10.3 0:29.74 mem.bash 26791 user 20 0 412040 192564 3012 R 50.0 10.3 0:29.74 mem2.bash
+
+Five processes
+26790 user 20 0 415340 196016 3040 R 52.9 10.5 0:30.26 mem.bash 26791 user 20 0 415340 195996 3012 R 41.2 10.5 0:30.25 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1151.2 free, 495.5 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1187.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 419300 199956 3012 R 52.9 10.7 0:30.88 mem2.bash 26790 user 20 0 419168 199712 3040 R 41.2 10.7 0:30.86 mem.bash
+
+Five processes
+26790 user 20 0 422600 203144 3040 R 47.1 10.9 0:31.39 mem.bash 26791 user 20 0 422600 203388 3012 R 47.1 10.9 0:31.39 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1137.0 free, 509.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1173.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 426560 207104 3040 R 41.2 11.1 0:31.99 mem.bash 26791 user 20 0 426560 207084 3012 R 41.2 11.1 0:31.98 mem2.bash
+
+Five processes
+26790 user 20 0 429860 210536 3040 R 47.1 11.3 0:32.49 mem.bash 26791 user 20 0 429860 210516 3012 R 47.1 11.3 0:32.49 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1122.7 free, 524.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1158.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 433820 214496 3040 R 47.1 11.5 0:33.11 mem.bash 26791 user 20 0 433820 214476 3012 R 41.2 11.5 0:33.10 mem2.bash
+
+Five processes
+26791 user 20 0 437120 217908 3012 R 47.1 11.6 0:33.61 mem2.bash 26790 user 20 0 437120 217928 3040 R 41.2 11.6 0:33.62 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1108.3 free, 538.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1144.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 441212 221868 3012 R 50.0 11.9 0:34.23 mem2.bash 26790 user 20 0 441212 221888 3040 R 43.8 11.9 0:34.23 mem.bash
+
+Five processes
+26791 user 20 0 444512 225300 3012 R 53.3 12.0 0:34.74 mem2.bash 26790 user 20 0 444380 225056 3040 R 46.7 12.0 0:34.73 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1093.9 free, 552.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1130.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 448472 228996 3012 R 50.0 12.2 0:35.36 mem2.bash 26790 user 20 0 448472 229016 3040 R 44.4 12.2 0:35.35 mem.bash
+
+Five processes
+26791 user 20 0 451904 232692 3012 R 47.4 12.4 0:35.89 mem2.bash 26790 user 20 0 451904 232712 3040 R 36.8 12.4 0:35.87 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1079.3 free, 567.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1115.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 455996 236652 3012 R 44.4 12.6 0:36.50 mem2.bash 26790 user 20 0 455996 236672 3040 R 38.9 12.7 0:36.49 mem.bash
+
+Five processes
+26790 user 20 0 459296 240104 3040 R 53.3 12.8 0:37.01 mem.bash 26791 user 20 0 459296 240084 3012 R 46.7 12.8 0:37.00 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1064.9 free, 581.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1101.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 463256 244064 3040 R 50.0 13.0 0:37.62 mem.bash 26791 user 20 0 463388 244044 3012 R 50.0 13.0 0:37.63 mem2.bash
+
+Five processes
+26791 user 20 0 466688 247212 3012 R 47.1 13.2 0:38.13 mem2.bash 26790 user 20 0 466688 247232 3040 R 41.2 13.2 0:38.13 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1050.7 free, 596.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1086.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 470516 251172 3012 R 50.0 13.4 0:38.75 mem2.bash 26790 user 20 0 470648 251192 3040 R 38.9 13.4 0:38.74 mem.bash
+
+Five processes
+26791 user 20 0 473816 254604 3012 R 50.0 13.6 0:39.26 mem2.bash 26790 user 20 0 473948 254624 3040 R 43.8 13.6 0:39.27 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1036.6 free, 610.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1072.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 477776 258584 3040 R 43.8 13.8 0:39.86 mem.bash 26791 user 20 0 477776 258300 3012 R 43.8 13.8 0:39.86 mem2.bash
+
+Five processes
+26791 user 20 0 481076 261732 3012 R 50.0 14.0 0:40.39 mem2.bash 26790 user 20 0 481208 261752 3040 R 43.8 14.0 0:40.37 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1022.3 free, 624.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1058.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 485168 265976 3040 R 44.4 14.2 0:41.00 mem.bash 26791 user 20 0 484904 265692 3012 R 38.9 14.2 0:40.99 mem2.bash
+
+Five processes
+26790 user 20 0 488600 269144 3040 R 47.1 14.4 0:41.52 mem.bash 26791 user 20 0 488336 269124 3012 R 47.1 14.4 0:41.52 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 1007.9 free, 638.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1044.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 492560 273104 3040 R 47.1 14.6 0:42.13 mem.bash 26791 user 20 0 492428 273084 3012 R 47.1 14.6 0:42.13 mem2.bash
+
+Five processes
+26790 user 20 0 495860 276536 3040 R 44.4 14.8 0:42.63 mem.bash 26791 user 20 0 495728 276252 3012 R 44.4 14.8 0:42.63 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 993.6 free, 653.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1029.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 499688 280476 3012 R 44.4 15.0 0:43.24 mem2.bash 26790 user 20 0 499820 280496 3040 R 38.9 15.0 0:43.24 mem.bash
+
+Five processes
+26790 user 20 0 503252 283928 3040 R 50.0 15.2 0:43.77 mem.bash 26791 user 20 0 503120 283644 3012 R 38.9 15.2 0:43.75 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 978.9 free, 667.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1015.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 507080 287868 3012 R 47.1 15.4 0:44.38 mem2.bash 26790 user 20 0 507212 287888 3040 R 41.2 15.4 0:44.37 mem.bash
+
+Five processes
+26790 user 20 0 510644 291320 3040 R 47.1 15.6 0:44.89 mem.bash 26791 user 20 0 510512 291036 3012 R 47.1 15.6 0:44.89 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 964.6 free, 682.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 1000.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 514472 295260 3012 R 47.1 15.8 0:45.50 mem2.bash 26790 user 20 0 514604 295280 3040 R 41.2 15.8 0:45.49 mem.bash
+
+Five processes
+26790 user 20 0 517904 298712 3040 R 47.1 16.0 0:46.02 mem.bash 26791 user 20 0 517904 298428 3012 R 47.1 16.0 0:46.01 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 950.2 free, 696.5 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 986.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 521864 302672 3040 R 44.4 16.2 0:46.63 mem.bash 26791 user 20 0 521996 302652 3012 R 44.4 16.2 0:46.63 mem2.bash
+
+Five processes
+26790 user 20 0 525296 305840 3040 R 47.1 16.3 0:47.14 mem.bash 26791 user 20 0 525296 305820 3012 R 47.1 16.3 0:47.14 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 936.0 free, 710.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 972.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 529256 310064 3040 R 41.2 16.6 0:47.75 mem.bash 26791 user 20 0 529256 309780 3012 R 41.2 16.6 0:47.75 mem2.bash
+
+Five processes
+26790 user 20 0 532556 313232 3040 R 44.4 16.7 0:48.26 mem.bash 26791 user 20 0 532556 313212 3012 R 44.4 16.7 0:48.26 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 921.3 free, 725.3 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 957.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 536648 317192 3040 R 42.1 17.0 0:48.88 mem.bash 26791 user 20 0 536648 317436 3012 R 42.1 17.0 0:48.88 mem2.bash
+
+Five processes
+26790 user 20 0 540080 320624 3040 R 41.2 17.1 0:49.40 mem.bash 26791 user 20 0 539948 320604 3012 R 41.2 17.1 0:49.39 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 906.9 free, 739.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 943.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 544040 324848 3040 R 47.4 17.4 0:50.02 mem.bash 26791 user 20 0 544040 324564 3012 R 36.8 17.3 0:50.00 mem2.bash
+
+Five processes
+26790 user 20 0 547472 328016 3040 R 50.0 17.5 0:50.53 mem.bash 26791 user 20 0 547472 327996 3012 R 43.8 17.5 0:50.53 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 892.4 free, 754.2 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 928.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 551432 332240 3040 R 41.2 17.8 0:51.14 mem.bash 26791 user 20 0 551432 331956 3012 R 41.2 17.7 0:51.14 mem2.bash
+
+Five processes
+26790 user 20 0 554732 335408 3040 R 50.0 17.9 0:51.65 mem.bash 26791 user 20 0 554732 335388 3012 R 43.8 17.9 0:51.64 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 878.2 free, 768.5 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 914.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 558692 339348 3012 R 50.0 18.1 0:52.25 mem2.bash 26790 user 20 0 558692 339368 3040 R 43.8 18.1 0:52.25 mem.bash
+
+Five processes
+26790 user 20 0 562124 342800 3040 R 44.4 18.3 0:52.78 mem.bash 26791 user 20 0 562124 342780 3012 R 44.4 18.3 0:52.78 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 863.7 free, 782.9 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 899.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 566084 346760 3040 R 47.1 18.5 0:53.39 mem.bash 26791 user 20 0 566216 346740 3012 R 47.1 18.5 0:53.39 mem2.bash
+
+Five processes
+26791 user 20 0 569384 350172 3012 R 50.0 18.7 0:53.89 mem2.bash 26790 user 20 0 569516 350192 3040 R 43.8 18.7 0:53.89 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 849.4 free, 797.2 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 885.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 573476 354152 3040 R 44.4 18.9 0:54.51 mem.bash 26791 user 20 0 573344 353868 3012 R 38.9 18.9 0:54.50 mem2.bash
+
+Five processes
+26790 user 20 0 576776 357320 3040 R 41.2 19.1 0:55.02 mem.bash 26791 user 20 0 576776 357300 3012 R 41.2 19.1 0:55.03 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 835.3 free, 811.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 871.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 580736 361544 3040 R 47.4 19.3 0:55.65 mem.bash 26791 user 20 0 580604 361260 3012 R 36.8 19.3 0:55.64 mem2.bash
+
+Five processes
+26791 user 20 0 584036 364692 3012 R 50.0 19.5 0:56.16 mem2.bash 26790 user 20 0 584036 364712 3040 R 38.9 19.5 0:56.14 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 820.9 free, 825.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 857.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 588128 368672 3040 R 47.1 19.7 0:56.76 mem.bash 26791 user 20 0 587996 368652 3012 R 41.2 19.7 0:56.76 mem2.bash
+
+Five processes
+26791 user 20 0 591296 371820 3012 R 52.9 19.9 0:57.27 mem2.bash 26790 user 20 0 591296 372104 3040 R 41.2 19.9 0:57.26 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 806.6 free, 840.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 842.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 595388 376064 3040 R 52.9 20.1 0:57.88 mem.bash 26791 user 20 0 595124 375780 3012 R 41.2 20.1 0:57.87 mem2.bash
+
+Five processes
+26790 user 20 0 598556 379232 3040 R 50.0 20.3 0:58.37 mem.bash 26791 user 20 0 598424 379212 3012 R 50.0 20.3 0:58.37 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 792.5 free, 854.2 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 828.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 602516 383172 3012 R 47.1 20.5 0:58.98 mem2.bash 26790 user 20 0 602648 383192 3040 R 41.2 20.5 0:58.97 mem.bash
+
+Five processes
+26790 user 20 0 605948 386624 3040 R 50.0 20.7 0:59.49 mem.bash 26791 user 20 0 605816 386604 3012 R 50.0 20.7 0:59.49 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 778.2 free, 868.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 814.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 609776 390300 3012 R 47.1 20.9 1:00.10 mem2.bash 26790 user 20 0 610040 390584 3040 R 41.2 20.9 1:00.10 mem.bash
+
+Five processes
+26790 user 20 0 613208 394016 3040 R 44.4 21.1 1:00.63 mem.bash 26791 user 20 0 613076 393732 3012 R 44.4 21.0 1:00.63 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 764.0 free, 882.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 800.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 617036 397692 3012 R 52.9 21.3 1:01.25 mem2.bash 26790 user 20 0 617036 397712 3040 R 41.2 21.3 1:01.23 mem.bash
+
+Five processes
+26790 user 20 0 620468 401144 3040 R 44.4 21.4 1:01.77 mem.bash 26791 user 20 0 620336 400860 3012 R 38.9 21.4 1:01.76 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 749.8 free, 896.9 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 786.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 624428 405104 3040 R 43.8 21.7 1:02.37 mem.bash 26791 user 20 0 624164 404820 3012 R 43.8 21.6 1:02.37 mem2.bash
+
+Five processes
+26790 user 20 0 627728 408536 3040 R 44.4 21.8 1:02.88 mem.bash 26791 user 20 0 627596 408252 3012 R 38.9 21.8 1:02.87 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 735.6 free, 911.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 771.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 631688 412496 3040 R 53.3 22.0 1:03.49 mem.bash 26791 user 20 0 631556 412212 3012 R 53.3 22.0 1:03.49 mem2.bash
+
+Five processes
+26790 user 20 0 634988 415664 3040 R 47.1 22.2 1:03.98 mem.bash 26791 user 20 0 634724 415380 3012 R 35.3 22.2 1:03.97 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 721.3 free, 925.3 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 757.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 638948 419624 3040 R 50.0 22.4 1:04.60 mem.bash 26791 user 20 0 638684 419340 3012 R 38.9 22.4 1:04.59 mem2.bash
+
+Five processes
+26791 user 20 0 642248 422772 3012 R 47.1 22.6 1:05.12 mem2.bash 26790 user 20 0 642380 423056 3040 R 41.2 22.6 1:05.11 mem.bash 23 root 39 19 0 0 0 R 5.9 0.0 0:02.54 khugepaged 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 706.7 free, 940.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 742.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 646340 426996 3012 R 44.4 22.8 1:05.75 mem2.bash 26790 user 20 0 646472 427016 3040 R 38.9 22.8 1:05.74 mem.bash
+
+Five processes
+26791 user 20 0 649508 430164 3012 R 50.0 23.0 1:06.25 mem2.bash 26790 user 20 0 649772 430448 3040 R 43.8 23.0 1:06.25 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 692.3 free, 954.3 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 728.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 653600 434124 3012 R 50.0 23.2 1:06.87 mem2.bash 26790 user 20 0 653732 434408 3040 R 44.4 23.2 1:06.86 mem.bash
+
+Five processes
+26791 user 20 0 657032 437556 3012 R 44.4 23.4 1:07.39 mem2.bash 26790 user 20 0 657164 437840 3040 R 38.9 23.4 1:07.38 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 677.9 free, 968.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 714.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 660992 441516 3012 R 52.9 23.6 1:08.00 mem2.bash 26790 user 20 0 661256 441800 3040 R 41.2 23.6 1:07.99 mem.bash
+
+Five processes
+26790 user 20 0 664556 445232 3040 R 52.9 23.8 1:08.51 mem.bash 26791 user 20 0 664160 444684 3012 R 47.1 23.8 1:08.50 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 663.7 free, 982.9 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 699.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 668516 449192 3040 R 41.2 24.0 1:09.11 mem.bash 26791 user 20 0 668252 448908 3012 R 41.2 24.0 1:09.11 mem2.bash
+
+Five processes
+26791 user 20 0 671552 452340 3012 R 52.9 24.2 1:09.63 mem2.bash 26790 user 20 0 671816 452360 3040 R 41.2 24.2 1:09.62 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 649.3 free, 997.3 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 685.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 675644 456300 3012 R 52.9 24.4 1:10.24 mem2.bash 26790 user 20 0 675776 456584 3040 R 41.2 24.4 1:10.23 mem.bash
+
+Five processes
+26791 user 20 0 678812 459468 3012 R 47.1 24.6 1:10.74 mem2.bash 26790 user 20 0 679076 459752 3040 R 41.2 24.6 1:10.74 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 635.0 free, 1011.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 671.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 683168 463712 3040 R 47.1 24.8 1:11.35 mem.bash 26791 user 20 0 682904 463428 3012 R 41.2 24.8 1:11.35 mem2.bash
+
+Five processes
+26791 user 20 0 686204 466860 3012 R 50.0 25.0 1:11.87 mem2.bash 26790 user 20 0 686468 467144 3040 R 43.8 25.0 1:11.85 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 620.8 free, 1025.8 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 657.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 690428 471104 3040 R 41.2 25.2 1:12.47 mem.bash 26791 user 20 0 690164 470820 3012 R 41.2 25.2 1:12.47 mem2.bash
+
+Five processes
+26791 user 20 0 693332 473988 3012 R 47.1 25.3 1:12.97 mem2.bash 26790 user 20 0 693464 474008 3040 R 41.2 25.3 1:12.96 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 607.2 free, 1039.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 643.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 697292 477968 3040 R 47.1 25.5 1:13.58 mem.bash 26791 user 20 0 697160 477684 3012 R 47.1 25.5 1:13.57 mem2.bash
+
+Five processes
+26791 user 20 0 700460 481116 3012 R 47.1 25.7 1:14.08 mem2.bash 26790 user 20 0 700592 481136 3040 R 41.2 25.7 1:14.07 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 593.1 free, 1053.6 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 629.3 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 704420 485096 3040 R 50.0 25.9 1:14.68 mem.bash 26791 user 20 0 704288 484812 3012 R 50.0 25.9 1:14.69 mem2.bash
+
+Five processes
+26791 user 20 0 707720 488244 3012 R 53.3 26.1 1:15.21 mem2.bash 26790 user 20 0 707720 488264 3040 R 46.7 26.1 1:15.20 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 578.6 free, 1068.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 614.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 711812 492488 3040 R 47.1 26.3 1:15.82 mem.bash 26791 user 20 0 711680 492468 3012 R 47.1 26.3 1:15.82 mem2.bash
+
+Five processes
+26790 user 20 0 715244 495920 3040 R 38.9 26.5 1:16.34 mem.bash 26791 user 20 0 715112 495900 3012 R 38.9 26.5 1:16.34 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 564.1 free, 1082.5 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 600.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 719204 499880 3040 R 47.1 26.7 1:16.96 mem.bash 26791 user 20 0 719204 499860 3012 R 47.1 26.7 1:16.96 mem2.bash
+
+Five processes
+26790 user 20 0 722636 503312 3040 R 44.4 26.9 1:17.49 mem.bash 26791 user 20 0 722636 503292 3012 R 44.4 26.9 1:17.48 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 549.6 free, 1097.0 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 585.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 726596 507252 3012 R 50.0 27.1 1:18.10 mem2.bash 26790 user 20 0 726728 507272 3040 R 38.9 27.1 1:18.09 mem.bash
+
+Five processes
+26790 user 20 0 729896 510704 3040 R 47.1 27.3 1:18.60 mem.bash 26791 user 20 0 729896 510420 3012 R 47.1 27.3 1:18.60 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 535.2 free, 1111.4 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 571.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 733988 514664 3040 R 44.4 27.5 1:19.21 mem.bash 26791 user 20 0 733856 514644 3012 R 38.9 27.5 1:19.21 mem2.bash
+
+Five processes
+26790 user 20 0 737288 518096 3040 R 47.1 27.7 1:19.72 mem.bash 26791 user 20 0 737156 517812 3012 R 41.2 27.7 1:19.72 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 521.0 free, 1125.7 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 557.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 741248 521792 3040 R 47.1 27.9 1:20.33 mem.bash 26791 user 20 0 741248 522036 3012 R 47.1 27.9 1:20.34 mem2.bash
+
+Five processes
+26790 user 20 0 744680 525224 3040 R 47.1 28.1 1:20.85 mem.bash 26791 user 20 0 744680 525204 3012 R 47.1 28.1 1:20.86 mem2.bash 26751 root 20 0 0 0 0 I 5.9 0.0 0:00.10 kworker/0:0-events_power_ef+ 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 506.5 free, 1140.1 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 542.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 748640 529164 3012 R 47.1 28.3 1:21.46 mem2.bash 26790 user 20 0 748772 529448 3040 R 41.2 28.3 1:21.47 mem.bash
+
+Five processes
+26790 user 20 0 752072 532616 3040 R 52.9 28.5 1:21.98 mem.bash 26791 user 20 0 751940 532596 3012 R 47.1 28.5 1:21.97 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 492.1 free, 1154.6 used, 180.4 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 528.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 756032 536556 3012 R 44.4 28.7 1:22.58 mem2.bash 26790 user 20 0 756032 536576 3040 R 38.9 28.7 1:22.58 mem.bash
+
+Five processes
+26790 user 20 0 759464 540008 3040 R 47.1 28.9 1:23.10 mem.bash 26791 user 20 0 759332 539988 3012 R 47.1 28.9 1:23.10 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 477.4 free, 1169.0 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 513.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 763424 543968 3040 R 44.4 29.1 1:23.71 mem.bash 26791 user 20 0 763424 543948 3012 R 38.9 29.1 1:23.71 mem2.bash
+
+Five processes
+26790 user 20 0 766724 547400 3040 R 47.1 29.3 1:24.22 mem.bash 26791 user 20 0 766724 547380 3012 R 47.1 29.3 1:24.22 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 463.0 free, 1183.5 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 499.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 770684 551360 3040 R 43.8 29.5 1:24.82 mem.bash 26791 user 20 0 770684 551340 3012 R 43.8 29.5 1:24.82 mem2.bash
+
+Five processes
+26790 user 20 0 774116 554792 3040 R 44.4 29.7 1:25.34 mem.bash 26791 user 20 0 774116 554772 3012 R 44.4 29.7 1:25.34 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 448.9 free, 1197.6 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 485.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 778076 558752 3040 R 47.1 29.9 1:25.96 mem.bash 26791 user 20 0 778076 558732 3012 R 47.1 29.9 1:25.96 mem2.bash
+
+Five processes
+26790 user 20 0 781508 562184 3040 R 42.1 30.0 1:26.47 mem.bash 26791 user 20 0 781376 562164 3012 R 36.8 30.0 1:26.46 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 434.3 free, 1212.2 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 470.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 785468 566144 3040 R 41.2 30.3 1:27.07 mem.bash 26791 user 20 0 785468 566124 3012 R 41.2 30.3 1:27.07 mem2.bash
+
+Five processes
+26790 user 20 0 788768 569576 3040 R 52.9 30.4 1:27.59 mem.bash 26791 user 20 0 788768 569292 3012 R 47.1 30.4 1:27.58 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 420.0 free, 1226.5 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 456.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 792728 573252 3012 R 47.1 30.6 1:28.19 mem2.bash 26790 user 20 0 792860 573536 3040 R 41.2 30.7 1:28.19 mem.bash
+
+Five processes
+26790 user 20 0 796160 576704 3040 R 52.9 30.8 1:28.70 mem.bash 26791 user 20 0 796028 576684 3012 R 47.1 30.8 1:28.70 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 405.6 free, 1240.8 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 442.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 800120 580928 3040 R 47.1 31.1 1:29.32 mem.bash 26791 user 20 0 800120 580644 3012 R 47.1 31.0 1:29.31 mem2.bash
+
+Five processes
+26791 user 20 0 803420 584076 3012 R 47.1 31.2 1:29.82 mem2.bash 26790 user 20 0 803420 584096 3040 R 41.2 31.2 1:29.82 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 391.1 free, 1255.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 427.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 807380 588036 3012 R 47.1 31.4 1:30.43 mem2.bash 26790 user 20 0 807512 588056 3040 R 41.2 31.4 1:30.43 mem.bash
+
+Five processes
+26790 user 20 0 810812 591488 3040 R 53.3 31.6 1:30.94 mem.bash 26791 user 20 0 810680 591468 3012 R 53.3 31.6 1:30.94 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 377.1 free, 1269.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 413.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 814772 595448 3040 R 44.4 31.8 1:31.56 mem.bash 26791 user 20 0 814772 595428 3012 R 44.4 31.8 1:31.57 mem2.bash
+
+Five processes
+26791 user 20 0 818072 598596 3012 R 50.0 32.0 1:32.09 mem2.bash 26790 user 20 0 818072 598616 3040 R 38.9 32.0 1:32.07 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 363.1 free, 1283.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 399.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 821900 602576 3040 R 50.0 32.2 1:32.69 mem.bash 26791 user 20 0 821768 602292 3012 R 50.0 32.2 1:32.68 mem2.bash
+
+Five processes
+26790 user 20 0 825068 605744 3040 R 44.4 32.4 1:33.20 mem.bash 26791 user 20 0 824936 605460 3012 R 38.9 32.4 1:33.19 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 349.2 free, 1297.2 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 385.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 828896 609704 3040 R 41.2 32.6 1:33.80 mem.bash 26791 user 20 0 828764 609420 3012 R 41.2 32.6 1:33.80 mem2.bash
+
+Five processes
+26791 user 20 0 832328 612852 3012 R 52.9 32.8 1:34.33 mem2.bash 26790 user 20 0 832328 613136 3040 R 41.2 32.8 1:34.32 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 334.8 free, 1311.6 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 371.3 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 836288 617096 3040 R 44.4 33.0 1:34.94 mem.bash 26791 user 20 0 836288 616812 3012 R 44.4 33.0 1:34.94 mem2.bash
+
+Five processes
+26790 user 20 0 839588 620264 3040 R 44.4 33.2 1:35.44 mem.bash 26791 user 20 0 839456 620244 3012 R 38.9 33.2 1:35.44 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 320.5 free, 1325.9 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 357.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 843548 624224 3040 R 50.0 33.4 1:36.06 mem.bash 26791 user 20 0 843548 624204 3012 R 50.0 33.4 1:36.06 mem2.bash
+
+Five processes
+26791 user 20 0 846848 627372 3012 R 47.1 33.5 1:36.57 mem2.bash 26790 user 20 0 846848 627656 3040 R 41.2 33.5 1:36.56 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 306.3 free, 1340.1 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 342.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 850808 631332 3012 R 50.0 33.7 1:37.18 mem2.bash 26790 user 20 0 850940 631616 3040 R 43.8 33.8 1:37.17 mem.bash
+
+Five processes
+26790 user 20 0 854372 635048 3040 R 43.8 33.9 1:37.69 mem.bash 26791 user 20 0 854240 634764 3012 R 43.8 33.9 1:37.69 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 291.9 free, 1354.5 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 328.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 858200 638724 3012 R 52.9 34.1 1:38.32 mem2.bash 26790 user 20 0 858332 639008 3040 R 41.2 34.2 1:38.30 mem.bash
+
+Five processes
+26790 user 20 0 861632 642176 3040 R 47.1 34.3 1:38.81 mem.bash 26791 user 20 0 861500 642156 3012 R 41.2 34.3 1:38.81 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 277.4 free, 1369.0 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 313.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 865592 646116 3012 R 47.4 34.5 1:39.44 mem2.bash 26790 user 20 0 865724 646400 3040 R 42.1 34.6 1:39.44 mem.bash
+
+Five processes
+26790 user 20 0 869024 649568 3040 R 47.1 34.7 1:39.95 mem.bash 26791 user 20 0 868892 649548 3012 R 47.1 34.7 1:39.94 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 263.1 free, 1383.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 299.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 872852 653508 3012 R 47.1 34.9 1:40.55 mem2.bash 26790 user 20 0 872984 653528 3040 R 41.2 34.9 1:40.55 mem.bash
+
+Five processes
+26790 user 20 0 876416 656960 3040 R 47.1 35.1 1:41.07 mem.bash 26791 user 20 0 876152 656676 3012 R 41.2 35.1 1:41.06 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 248.6 free, 1397.8 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 285.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 880376 660920 3040 R 43.8 35.3 1:41.67 mem.bash 26791 user 20 0 880244 660900 3012 R 43.8 35.3 1:41.68 mem2.bash
+
+Five processes
+26790 user 20 0 883808 664352 3040 R 43.8 35.5 1:42.20 mem.bash 26791 user 20 0 883676 664332 3012 R 43.8 35.5 1:42.20 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 234.1 free, 1412.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 270.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 887636 668292 3012 R 50.0 35.7 1:42.83 mem2.bash 26790 user 20 0 887768 668312 3040 R 38.9 35.7 1:42.82 mem.bash
+
+Five processes
+26790 user 20 0 891068 671744 3040 R 50.0 35.9 1:43.33 mem.bash 26791 user 20 0 890936 671460 3012 R 50.0 35.9 1:43.34 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 220.3 free, 1426.1 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 256.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 894896 675440 3040 R 47.1 36.1 1:43.94 mem.bash 26791 user 20 0 894764 675420 3012 R 47.1 36.1 1:43.94 mem2.bash
+
+Five processes
+26790 user 20 0 898064 678608 3040 R 47.1 36.3 1:44.44 mem.bash 26791 user 20 0 897932 678588 3012 R 41.2 36.3 1:44.44 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 206.5 free, 1439.9 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 243.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 901760 682284 3012 R 50.0 36.5 1:45.05 mem2.bash 26790 user 20 0 901892 682568 3040 R 43.8 36.5 1:45.05 mem.bash
+
+Five processes
+26790 user 20 0 905324 686000 3040 R 47.4 36.7 1:45.58 mem.bash 26791 user 20 0 905060 685716 3012 R 36.8 36.7 1:45.56 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 192.3 free, 1454.1 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 228.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 909020 689676 3012 R 56.2 36.9 1:46.18 mem2.bash 26790 user 20 0 909152 689696 3040 R 43.8 36.9 1:46.17 mem.bash
+
+Five processes
+26790 user 20 0 912452 693128 3040 R 43.8 37.0 1:46.68 mem.bash 26791 user 20 0 912320 692844 3012 R 43.8 37.0 1:46.69 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 178.2 free, 1468.2 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 214.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 916412 697088 3040 R 44.4 37.3 1:47.30 mem.bash 26791 user 20 0 916280 696804 3012 R 44.4 37.2 1:47.30 mem2.bash
+
+Five processes
+26790 user 20 0 919712 700256 3040 R 43.8 37.4 1:47.81 mem.bash 26791 user 20 0 919448 700236 3012 R 43.8 37.4 1:47.80 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 164.0 free, 1482.4 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 200.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 923540 704216 3040 R 44.4 37.6 1:48.42 mem.bash 26791 user 20 0 923540 704196 3012 R 44.4 37.6 1:48.42 mem2.bash
+
+Five processes
+26791 user 20 0 926840 707628 3012 R 44.4 37.8 1:48.94 mem2.bash 26790 user 20 0 926840 707648 3040 R 38.9 37.8 1:48.94 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 150.2 free, 1496.2 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 186.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 930668 711324 3012 R 47.1 38.0 1:49.55 mem2.bash 26790 user 20 0 930668 711344 3040 R 41.2 38.0 1:49.54 mem.bash
+
+Five processes
+26790 user 20 0 933968 714512 3040 R 44.4 38.2 1:50.07 mem.bash 26791 user 20 0 933968 714492 3012 R 44.4 38.2 1:50.07 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 136.1 free, 1510.3 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 172.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 937928 718472 3040 R 44.4 38.4 1:50.68 mem.bash 26791 user 20 0 937796 718452 3012 R 38.9 38.4 1:50.67 mem2.bash
+
+Five processes
+26790 user 20 0 940964 721640 3040 R 50.0 38.6 1:51.19 mem.bash 26791 user 20 0 940832 721620 3012 R 43.8 38.6 1:51.18 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 123.1 free, 1523.4 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 159.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 944396 725052 3012 R 47.1 38.8 1:51.80 mem2.bash 26790 user 20 0 944528 725336 3040 R 41.2 38.8 1:51.80 mem.bash
+
+Five processes
+26791 user 20 0 947564 728220 3012 R 44.4 38.9 1:52.32 mem2.bash 26790 user 20 0 947564 728240 3040 R 38.9 38.9 1:52.32 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 110.4 free, 1536.0 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 146.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 951128 731672 3040 R 50.0 39.1 1:52.93 mem.bash 26791 user 20 0 950996 731652 3012 R 43.8 39.1 1:52.92 mem2.bash
+
+Five processes
+26790 user 20 0 954296 734840 3040 R 50.0 39.3 1:53.45 mem.bash 26791 user 20 0 954296 734820 3012 R 43.8 39.3 1:53.45 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 95.9 free, 1550.5 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 132.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 958256 739044 3012 R 44.4 39.5 1:54.07 mem2.bash 26790 user 20 0 958256 739064 3040 R 38.9 39.5 1:54.06 mem.bash
+
+Five processes
+26790 user 20 0 961688 742496 3040 R 38.9 39.7 1:54.59 mem.bash 26791 user 20 0 961688 742212 3012 R 38.9 39.7 1:54.58 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 81.6 free, 1564.8 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 117.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 965780 746456 3040 R 52.9 39.9 1:55.21 mem.bash 26791 user 20 0 965648 746172 3012 R 41.2 39.9 1:55.19 mem2.bash
+
+Five processes
+26791 user 20 0 969080 749604 3012 R 47.1 40.1 1:55.73 mem2.bash 26790 user 20 0 969080 749888 3040 R 41.2 40.1 1:55.72 mem.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.9 free, 1579.5 used, 180.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 103.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 973172 753828 3012 R 56.2 40.3 1:56.35 mem2.bash 26790 user 20 0 973172 753848 3040 R 37.5 40.3 1:56.33 mem.bash
+
+Five processes
+26790 user 20 0 976736 757544 3040 R 46.7 40.5 1:56.89 mem.bash 26791 user 20 0 976736 757260 3012 R 46.7 40.5 1:56.89 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 72.3 free, 1592.2 used, 162.6 buff/cache
+MiB Swap: 820.0 total, 728.7 free, 91.3 used. 90.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 980696 761240 3040 R 50.0 40.7 1:57.51 mem.bash 26791 user 20 0 980564 761220 3012 R 50.0 40.7 1:57.51 mem2.bash
+
+Five processes
+26790 user 20 0 983864 764672 3040 R 50.0 40.9 1:58.02 mem.bash 26791 user 20 0 983864 764652 3012 R 43.8 40.9 1:58.01 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 75.9 free, 1606.3 used, 144.8 buff/cache
+MiB Swap: 820.0 total, 728.4 free, 91.6 used. 76.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 987956 768632 3040 R 56.2 41.1 1:58.64 mem.bash 26791 user 20 0 987956 768612 3012 R 43.8 41.1 1:58.63 mem2.bash
+
+Five processes
+26790 user 20 0 991388 772064 3040 R 50.0 41.3 1:59.16 mem.bash 26791 user 20 0 991388 772044 3012 R 50.0 41.3 1:59.15 mem2.bash 1 root 20 0 253252 4656 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 75.0 free, 1620.5 used, 131.6 buff/cache
+MiB Swap: 820.0 total, 728.4 free, 91.6 used. 65.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 995084 775760 3040 R 38.9 41.5 1:59.76 mem.bash 26791 user 20 0 995084 775740 3012 R 38.9 41.5 1:59.76 mem2.bash
+
+Five processes
+26790 user 20 0 997460 778136 3040 R 47.4 41.6 2:00.28 mem.bash 26791 user 20 0 997460 778116 3012 R 42.1 41.6 2:00.28 mem2.bash 29785 user 20 0 274140 4392 3820 R 5.3 0.2 0:00.01 top 1 root 20 0 253252 4644 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 64.3 free, 1631.1 used, 131.6 buff/cache
+MiB Swap: 820.0 total, 728.4 free, 91.6 used. 55.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1000760 781304 3040 R 47.1 41.8 2:00.88 mem.bash 26791 user 20 0 1000760 781284 3012 R 41.2 41.8 2:00.87 mem2.bash
+
+Five processes
+26790 user 20 0 1003136 783880 3040 R 58.8 41.9 2:01.41 mem.bash 26791 user 20 0 1003004 783660 3012 R 35.3 41.9 2:01.36 mem2.bash 23 root 39 19 0 0 0 R 5.9 0.0 0:02.59 khugepaged 1 root 20 0 253252 4596 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 73.0 free, 1639.8 used, 114.3 buff/cache
+MiB Swap: 820.0 total, 727.9 free, 92.1 used. 55.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1005776 786256 3040 R 47.1 42.0 2:02.02 mem.bash 26791 user 20 0 1005512 786300 3012 R 47.1 42.0 2:01.97 mem2.bash
+
+Five processes
+26791 user 20 0 1007756 788412 3012 R 47.1 42.1 2:02.49 mem2.bash 26790 user 20 0 1007888 788632 3040 R 41.2 42.2 2:02.53 mem.bash 1 root 20 0 253252 4596 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.1 free, 1649.7 used, 114.2 buff/cache
+MiB Swap: 820.0 total, 727.9 free, 92.1 used. 45.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1010528 791316 3012 R 52.9 42.3 2:03.11 mem2.bash 26790 user 20 0 1010660 791272 3040 R 41.2 42.3 2:03.14 mem.bash
+
+Five processes
+26790 user 20 0 1013300 793860 3040 R 38.9 42.4 2:03.71 mem.bash 26791 user 20 0 1013168 793576 3012 R 38.9 42.4 2:03.67 mem2.bash 1 root 20 0 253252 4556 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 75.1 free, 1659.7 used, 92.2 buff/cache
+MiB Swap: 820.0 total, 727.7 free, 92.3 used. 46.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1015940 796500 3040 R 38.9 42.6 2:04.32 mem.bash 26791 user 20 0 1015808 796480 3012 R 38.9 42.6 2:04.28 mem2.bash
+
+Five processes
+26790 user 20 0 1018316 798876 3040 R 38.9 42.7 2:04.85 mem.bash 26791 user 20 0 1018184 798856 3012 R 38.9 42.7 2:04.81 mem2.bash 1 root 20 0 253252 4556 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 76.3 free, 1670.9 used, 79.9 buff/cache
+MiB Swap: 820.0 total, 726.7 free, 93.3 used. 41.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1021880 801924 3040 R 33.3 42.9 2:05.48 mem.bash 26791 user 20 0 1021748 801716 3012 R 25.0 42.9 2:05.44 mem2.bash
+
+Five processes
+26790 user 20 0 1024916 805092 3040 R 43.8 43.0 2:06.00 mem.bash 26791 user 20 0 1024784 804884 3012 R 43.8 43.0 2:05.96 mem2.bash 1 root 20 0 253252 4492 3272 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.4 free, 1683.7 used, 79.9 buff/cache
+MiB Swap: 820.0 total, 726.7 free, 93.3 used. 28.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1028480 808524 3040 R 38.9 43.2 2:06.61 mem.bash 26791 user 20 0 1028348 808316 3012 R 38.9 43.2 2:06.58 mem2.bash
+
+Five processes
+26791 user 20 0 1031252 809476 3012 R 47.1 43.3 2:07.10 mem2.bash 26790 user 20 0 1031384 811428 3040 R 41.2 43.4 2:07.14 mem.bash 1 root 20 0 253252 4132 3008 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.3 free, 1694.0 used, 67.7 buff/cache
+MiB Swap: 820.0 total, 724.9 free, 95.1 used. 24.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1034288 814332 3040 R 43.8 43.5 2:07.73 mem.bash 26791 user 20 0 1034288 812644 3012 R 43.8 43.4 2:07.73 mem2.bash
+
+Five processes
+26790 user 20 0 1037720 817580 2856 R 42.1 43.7 2:08.35 mem.bash 26791 user 20 0 1037852 813568 2832 R 42.1 43.5 2:08.34 mem2.bash 1 root 20 0 253252 3284 2248 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.3 free, 1706.3 used, 54.5 buff/cache
+MiB Swap: 820.0 total, 722.7 free, 97.3 used. 18.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1041680 821804 2856 R 46.7 43.9 2:08.96 mem.bash 26791 user 20 0 1041812 817528 2832 R 46.7 43.7 2:08.96 mem2.bash
+
+Five processes
+26791 user 20 0 1045112 815212 2832 R 47.1 43.6 2:09.47 mem2.bash 26790 user 20 0 1044980 824972 2856 R 41.2 44.1 2:09.47 mem.bash 1 root 20 0 253252 2536 1500 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 74.9 free, 1710.5 used, 41.7 buff/cache
+MiB Swap: 820.0 total, 712.4 free, 107.6 used. 17.3 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1049072 828932 2856 R 53.3 44.3 2:10.09 mem.bash 26791 user 20 0 1049072 819172 2832 R 53.3 43.8 2:10.09 mem2.bash
+
+Five processes
+26791 user 20 0 1053296 818500 2796 R 50.0 43.7 2:10.73 mem2.bash 26790 user 20 0 1053164 833104 2804 R 44.4 44.5 2:10.73 mem.bash 1 root 20 0 253252 2404 1380 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 73.6 free, 1711.5 used, 41.9 buff/cache
+MiB Swap: 820.0 total, 694.9 free, 125.1 used. 18.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1057652 837408 2628 R 43.8 44.8 2:11.41 mem.bash 26791 user 20 0 1057652 814348 2612 R 43.8 43.5 2:11.42 mem2.bash
+
+Five processes
+26791 user 20 0 1062272 804080 2548 R 56.2 43.0 2:12.13 mem2.bash 26790 user 20 0 1062140 841840 2572 R 43.8 45.0 2:12.13 mem.bash 1 root 20 0 253252 1728 984 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 76.2 free, 1706.1 used, 44.8 buff/cache
+MiB Swap: 820.0 total, 666.4 free, 153.6 used. 24.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1066364 794956 2548 R 40.0 42.5 2:12.76 mem2.bash 26790 user 20 0 1066232 837608 2572 R 35.0 44.8 2:12.76 mem.bash
+
+Five processes
+26791 user 20 0 1070456 798916 2548 R 44.4 42.7 2:13.39 mem2.bash 26790 user 20 0 1070192 841832 2572 R 38.9 45.0 2:13.38 mem.bash 1 root 20 0 253252 1584 980 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.6 free, 1710.8 used, 45.7 buff/cache
+MiB Swap: 820.0 total, 657.1 free, 162.9 used. 19.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1074152 839384 2572 R 46.7 44.9 2:13.98 mem.bash 26791 user 20 0 1074416 799508 2548 R 46.7 42.7 2:13.98 mem2.bash
+
+Five processes
+26791 user 20 0 1077848 802940 2548 R 47.1 42.9 2:14.51 mem2.bash 26790 user 20 0 1077584 843080 2572 R 41.2 45.1 2:14.51 mem.bash 1 root 20 0 253252 1512 980 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.8 free, 1714.4 used, 45.8 buff/cache
+MiB Swap: 820.0 total, 648.2 free, 171.8 used. 15.3 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1082204 847488 2496 R 47.1 45.3 2:15.23 mem.bash 26791 user 20 0 1082204 798752 2472 R 41.2 42.7 2:15.23 mem2.bash
+
+Five processes
+26790 user 20 0 1085636 836584 2496 R 44.4 44.7 2:15.78 mem.bash 26791 user 20 0 1085636 780692 2472 R 38.9 41.7 2:15.78 mem2.bash 1 root 20 0 253252 1240 980 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 79.8 free, 1703.3 used, 43.9 buff/cache
+MiB Swap: 820.0 total, 612.7 free, 207.3 used. 27.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1089728 840808 2496 R 43.8 44.9 2:16.40 mem.bash 26791 user 20 0 1089728 784652 2472 R 43.8 41.9 2:16.40 mem2.bash
+
+Five processes
+26791 user 20 0 1092896 788084 2472 R 42.1 42.1 2:16.92 mem2.bash 26790 user 20 0 1093028 843976 2496 R 36.8 45.1 2:16.91 mem.bash 1 root 20 0 253252 1240 980 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 62.1 free, 1717.5 used, 47.4 buff/cache
+MiB Swap: 820.0 total, 602.7 free, 217.3 used. 28.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1097120 847936 2496 R 47.1 45.3 2:17.53 mem.bash 26791 user 20 0 1096856 792044 2472 R 41.2 42.3 2:17.53 mem2.bash
+
+Five processes
+26791 user 20 0 1100288 787216 2472 R 50.0 42.1 2:18.04 mem2.bash 26790 user 20 0 1100288 849320 2496 R 43.8 45.4 2:18.04 mem.bash 1 root 20 0 253252 1236 980 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 73.4 free, 1699.1 used, 54.5 buff/cache
+MiB Swap: 820.0 total, 584.9 free, 235.1 used. 24.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1103984 780912 2472 R 41.2 41.7 2:18.64 mem2.bash 26790 user 20 0 1104116 853016 2496 R 35.3 45.6 2:18.64 mem.bash
+
+Five processes
+26790 user 20 0 1107284 841848 2496 R 35.3 45.0 2:19.13 mem.bash 26791 user 20 0 1107152 769296 2472 R 29.4 41.1 2:19.12 mem2.bash 47 root 20 0 0 0 0 S 11.8 0.0 36:45.64 kswapd0 1 root 20 0 253252 3208 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 65.8 free, 1701.8 used, 59.5 buff/cache
+MiB Swap: 820.0 total, 564.9 free, 255.1 used. 21.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1110980 773256 2472 R 50.0 41.3 2:19.72 mem2.bash 26790 user 20 0 1111112 845808 2496 R 43.8 45.2 2:19.72 mem.bash
+
+Five processes
+26790 user 20 0 1115072 849504 2496 R 42.1 45.4 2:20.31 mem.bash 26791 user 20 0 1114808 764608 2472 R 36.8 40.9 2:20.31 mem2.bash 1 root 20 0 253252 3200 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 69.5 free, 1701.8 used, 55.7 buff/cache
+MiB Swap: 820.0 total, 552.4 free, 267.6 used. 22.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1119032 853728 2496 R 47.1 45.6 2:20.93 mem.bash 26791 user 20 0 1118900 768568 2472 R 47.1 41.1 2:20.93 mem2.bash
+
+Five processes
+26790 user 20 0 1122332 856896 2496 R 44.4 45.8 2:21.45 mem.bash 26791 user 20 0 1122200 772000 2472 R 38.9 41.3 2:21.45 mem2.bash 1 root 20 0 253252 3200 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.3 free, 1702.1 used, 53.6 buff/cache
+MiB Swap: 820.0 total, 538.2 free, 281.8 used. 23.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1126556 761608 2472 R 50.0 40.7 2:22.12 mem2.bash 26790 user 20 0 1126556 861120 2496 R 44.4 46.0 2:22.11 mem.bash
+
+Five processes
+26791 user 20 0 1129856 765040 2472 R 53.3 40.9 2:22.64 mem2.bash 26790 user 20 0 1129856 864552 2496 R 46.7 46.2 2:22.63 mem.bash 1 root 20 0 253252 3196 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 75.7 free, 1698.1 used, 53.3 buff/cache
+MiB Swap: 820.0 total, 511.2 free, 308.8 used. 27.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1133816 851864 2496 R 44.4 45.5 2:23.22 mem.bash 26791 user 20 0 1133684 757504 2472 R 38.9 40.5 2:23.22 mem2.bash
+
+Five processes
+26791 user 20 0 1137116 760936 2472 R 56.2 40.7 2:23.74 mem2.bash 26790 user 20 0 1137116 855296 2496 R 50.0 45.7 2:23.73 mem.bash 1 root 20 0 253252 3188 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 73.2 free, 1701.9 used, 52.0 buff/cache
+MiB Swap: 820.0 total, 500.9 free, 319.1 used. 24.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1141076 764896 2472 R 47.1 40.9 2:24.35 mem2.bash 26790 user 20 0 1141076 859256 2496 R 41.2 45.9 2:24.33 mem.bash
+
+Five processes
+26790 user 20 0 1144508 862688 2496 R 44.4 46.1 2:24.85 mem.bash 26791 user 20 0 1144376 757828 2472 R 38.9 40.5 2:24.86 mem2.bash 1 root 20 0 253252 3188 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.7 free, 1704.6 used, 50.8 buff/cache
+MiB Swap: 820.0 total, 489.3 free, 330.6 used. 22.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1148468 866648 2496 R 41.2 46.3 2:25.47 mem.bash 26791 user 20 0 1148336 750072 2472 R 41.2 40.1 2:25.47 mem2.bash
+
+Five processes
+26790 user 20 0 1151900 870080 2496 R 50.0 46.5 2:26.00 mem.bash 26791 user 20 0 1151768 753240 2472 R 44.4 40.3 2:25.99 mem2.bash 1 root 20 0 253252 3184 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.7 free, 1704.2 used, 51.2 buff/cache
+MiB Swap: 820.0 total, 464.9 free, 355.1 used. 22.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1155728 857392 2496 R 50.0 45.8 2:26.58 mem.bash 26791 user 20 0 1155728 748592 2472 R 43.8 40.0 2:26.58 mem2.bash
+
+Five processes
+26790 user 20 0 1159160 860824 2496 R 44.4 46.0 2:27.11 mem.bash 26791 user 20 0 1159028 752024 2472 R 38.9 40.2 2:27.10 mem2.bash 1 root 20 0 253252 3184 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.8 free, 1704.7 used, 50.6 buff/cache
+MiB Swap: 820.0 total, 453.9 free, 366.1 used. 22.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1162592 864520 2496 R 41.2 46.2 2:27.69 mem.bash 26791 user 20 0 1162460 744292 2472 R 41.2 39.8 2:27.69 mem2.bash
+
+Five processes
+26790 user 20 0 1165628 867424 2496 R 50.0 46.4 2:28.23 mem.bash 26791 user 20 0 1165496 747460 2472 R 43.8 40.0 2:28.23 mem2.bash 1 root 20 0 253252 3184 2744 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 73.2 free, 1704.1 used, 49.8 buff/cache
+MiB Swap: 820.0 total, 440.8 free, 379.2 used. 23.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1169192 871120 2496 R 38.9 46.6 2:28.83 mem.bash 26791 user 20 0 1168928 739732 2472 R 33.3 39.5 2:28.82 mem2.bash
+
+Five processes
+26791 user 20 0 1171964 740544 2472 R 44.4 39.6 2:29.33 mem2.bash 26790 user 20 0 1172096 874024 2496 R 38.9 46.7 2:29.34 mem.bash 1 root 20 0 253252 2980 2540 S 0.0 0.2 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 78.4 free, 1699.9 used, 48.8 buff/cache
+MiB Swap: 820.0 total, 416.3 free, 403.7 used. 28.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1175528 863120 2496 R 33.3 46.1 2:29.93 mem.bash 26791 user 20 0 1175528 738400 2472 R 33.3 39.5 2:29.93 mem2.bash
+
+Five processes
+26790 user 20 0 1178564 863976 2496 R 44.4 46.2 2:30.45 mem.bash 26791 user 20 0 1178432 737952 2472 R 44.4 39.4 2:30.45 mem2.bash 1 root 20 0 253252 2772 2332 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.6 free, 1712.6 used, 48.9 buff/cache
+MiB Swap: 820.0 total, 416.3 free, 403.7 used. 15.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1181996 741648 2472 R 47.4 39.6 2:31.06 mem2.bash 26790 user 20 0 1182128 867408 2496 R 36.8 46.4 2:31.05 mem.bash
+
+Five processes
+26791 user 20 0 1184900 728660 2472 R 52.9 38.9 2:31.57 mem2.bash 26790 user 20 0 1185164 870576 2496 R 41.2 46.5 2:31.56 mem.bash 1 root 20 0 253252 2608 2168 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 69.5 free, 1709.5 used, 48.0 buff/cache
+MiB Swap: 820.0 total, 400.8 free, 419.2 used. 19.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1188464 732092 2472 R 42.1 39.1 2:32.17 mem2.bash 26790 user 20 0 1188596 874008 2496 R 36.8 46.7 2:32.18 mem.bash
+
+Five processes
+26790 user 20 0 1191368 876648 2496 R 42.1 46.9 2:32.69 mem.bash 26791 user 20 0 1191104 734732 2472 R 36.8 39.3 2:32.68 mem2.bash 1 root 20 0 253252 2608 2168 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.5 free, 1708.8 used, 46.7 buff/cache
+MiB Swap: 820.0 total, 389.1 free, 430.9 used. 20.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1194272 879816 2496 R 47.1 47.0 2:33.27 mem.bash 26791 user 20 0 1194008 725672 2472 R 47.1 38.8 2:33.27 mem2.bash
+
+Five processes
+26791 user 20 0 1196912 728312 2472 R 47.1 38.9 2:33.79 mem2.bash 26790 user 20 0 1197044 882456 2496 R 41.2 47.2 2:33.79 mem.bash 1 root 20 0 253252 2448 2008 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 75.8 free, 1703.5 used, 47.8 buff/cache
+MiB Swap: 820.0 total, 365.9 free, 454.1 used. 25.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1199552 723716 2472 R 41.2 38.7 2:34.37 mem2.bash 26790 user 20 0 1199684 868712 2496 R 29.4 46.4 2:34.36 mem.bash
+
+Five processes
+26790 user 20 0 1201796 870824 2496 R 42.1 46.5 2:34.92 mem.bash 26791 user 20 0 1201532 725828 2472 R 36.8 38.8 2:34.91 mem2.bash 1 root 20 0 253252 2308 1868 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 69.2 free, 1710.1 used, 47.8 buff/cache
+MiB Swap: 820.0 total, 365.9 free, 454.1 used. 19.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1203644 872672 2496 R 42.1 46.6 2:35.52 mem.bash 26791 user 20 0 1203248 727676 2472 R 42.1 38.9 2:35.51 mem2.bash
+
+Five processes
+26791 user 20 0 1205228 729524 2472 R 41.2 39.0 2:36.00 mem2.bash 26790 user 20 0 1205360 874520 2496 R 35.3 46.7 2:36.00 mem.bash 1 root 20 0 253252 2308 1868 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 72.9 free, 1707.8 used, 46.4 buff/cache
+MiB Swap: 820.0 total, 354.7 free, 465.3 used. 22.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1207604 720376 2472 R 30.0 38.5 2:36.59 mem2.bash 26790 user 20 0 1207868 876896 2496 R 25.0 46.9 2:36.59 mem.bash
+
+Five processes
+26791 user 20 0 1209716 722488 2472 R 42.1 38.6 2:37.14 mem2.bash 26790 user 20 0 1209716 878744 2496 R 36.8 47.0 2:37.13 mem.bash 1 root 20 0 253252 2192 1752 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 73.6 free, 1707.0 used, 46.4 buff/cache
+MiB Swap: 820.0 total, 347.1 free, 472.9 used. 22.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1213016 718212 2472 R 38.9 38.4 2:37.74 mem2.bash 26790 user 20 0 1213148 882176 2496 R 33.3 47.2 2:37.74 mem.bash
+
+Five processes
+26790 user 20 0 1215920 884816 2496 R 47.1 47.3 2:38.26 mem.bash 26791 user 20 0 1215656 720852 2472 R 47.1 38.5 2:38.26 mem2.bash 1 root 20 0 253252 2096 1656 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 79.4 free, 1702.3 used, 45.3 buff/cache
+MiB Swap: 820.0 total, 322.7 free, 497.3 used. 27.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1219484 724548 2472 R 47.4 38.7 2:38.87 mem2.bash 26790 user 20 0 1219484 888512 2496 R 31.6 47.5 2:38.86 mem.bash
+
+Five processes
+26790 user 20 0 1222784 875296 2496 R 47.1 46.8 2:39.37 mem.bash 26791 user 20 0 1222652 719176 2472 R 47.1 38.4 2:39.37 mem2.bash 1 root 20 0 253252 1996 1556 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.5 free, 1716.3 used, 47.3 buff/cache
+MiB Swap: 820.0 total, 322.7 free, 497.3 used. 12.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1226612 879256 2496 R 44.4 47.0 2:39.98 mem.bash 26791 user 20 0 1226216 722872 2472 R 38.9 38.6 2:39.97 mem2.bash
+
+Five processes
+26790 user 20 0 1229780 882424 2496 R 56.2 47.2 2:40.49 mem.bash 26791 user 20 0 1229384 712252 2472 R 50.0 38.1 2:40.48 mem2.bash 1 root 20 0 253252 1920 1480 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.7 free, 1715.0 used, 47.4 buff/cache
+MiB Swap: 820.0 total, 309.1 free, 510.9 used. 13.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1233476 886120 2496 R 44.4 47.4 2:41.10 mem.bash 26791 user 20 0 1233344 715948 2472 R 38.9 38.3 2:41.09 mem2.bash
+
+Five processes
+26790 user 20 0 1236776 889288 2496 R 47.1 47.5 2:41.60 mem.bash 26791 user 20 0 1236644 705392 2472 R 41.2 37.7 2:41.60 mem2.bash 1 root 20 0 253252 1860 1420 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.9 free, 1713.9 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 295.5 free, 524.5 used. 15.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1240604 893248 2496 R 47.1 47.7 2:42.21 mem.bash 26791 user 20 0 1240340 709088 2472 R 47.1 37.9 2:42.21 mem2.bash
+
+Five processes
+26790 user 20 0 1243112 895624 2496 R 47.1 47.9 2:42.73 mem.bash 26791 user 20 0 1242848 711464 2472 R 47.1 38.0 2:42.74 mem2.bash 1 root 20 0 253252 1860 1420 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 68.0 free, 1713.5 used, 45.6 buff/cache
+MiB Swap: 820.0 total, 270.2 free, 549.8 used. 16.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1246544 705508 2472 R 50.0 37.7 2:43.35 mem2.bash 26790 user 20 0 1246808 882936 2496 R 43.8 47.2 2:43.34 mem.bash
+
+Five processes
+26790 user 20 0 1250108 886368 2496 R 44.4 47.4 2:43.87 mem.bash 26791 user 20 0 1249712 708940 2472 R 44.4 37.9 2:43.87 mem2.bash 1 root 20 0 253252 1788 1348 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 67.9 free, 1714.9 used, 44.3 buff/cache
+MiB Swap: 820.0 total, 255.7 free, 564.3 used. 15.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1255124 891384 2496 R 50.0 47.6 2:44.67 mem.bash 26791 user 20 0 1254728 699352 2472 R 43.8 37.4 2:44.65 mem2.bash
+
+Five processes
+26790 user 20 0 1258424 894552 2496 R 47.1 47.8 2:45.18 mem.bash 26791 user 20 0 1258028 690432 2472 R 47.1 36.9 2:45.18 mem2.bash 1 root 20 0 253252 1608 1168 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.6 free, 1717.4 used, 45.0 buff/cache
+MiB Swap: 820.0 total, 244.0 free, 576.0 used. 12.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1262252 898512 2496 R 47.1 48.0 2:45.79 mem.bash 26791 user 20 0 1261856 694392 2472 R 47.1 37.1 2:45.79 mem2.bash
+
+Five processes
+26791 user 20 0 1265288 687240 2472 R 56.2 36.7 2:46.32 mem2.bash 26790 user 20 0 1265552 885560 2496 R 50.0 47.3 2:46.31 mem.bash 1 root 20 0 253252 1568 1128 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.5 free, 1715.5 used, 47.0 buff/cache
+MiB Swap: 820.0 total, 217.8 free, 602.2 used. 13.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1269116 691200 2472 R 47.1 36.9 2:46.93 mem2.bash 26790 user 20 0 1269380 889256 2496 R 41.2 47.5 2:46.92 mem.bash
+
+Five processes
+26790 user 20 0 1272548 892424 2496 R 50.0 47.7 2:47.43 mem.bash 26791 user 20 0 1272152 686240 2472 R 50.0 36.7 2:47.43 mem2.bash 1 root 20 0 253252 1536 1096 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.8 free, 1715.2 used, 47.1 buff/cache
+MiB Swap: 820.0 total, 209.9 free, 610.1 used. 13.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1276112 689936 2472 R 44.4 36.9 2:48.05 mem2.bash 26790 user 20 0 1276376 896120 2496 R 38.9 47.9 2:48.04 mem.bash
+
+Five processes
+26791 user 20 0 1279280 680464 2472 R 50.0 36.4 2:48.55 mem2.bash 26790 user 20 0 1279544 899552 2496 R 43.8 48.1 2:48.55 mem.bash 1 root 20 0 253252 1508 1068 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 67.7 free, 1713.0 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 197.2 free, 622.8 used. 16.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1283504 903512 2496 R 56.2 48.3 2:49.17 mem.bash 26791 user 20 0 1283240 684160 2472 R 43.8 36.6 2:49.15 mem2.bash
+
+Five processes
+26790 user 20 0 1286540 906416 2496 R 43.8 48.4 2:49.66 mem.bash 26791 user 20 0 1286276 687328 2472 R 43.8 36.7 2:49.65 mem2.bash 1 root 20 0 253252 1508 1068 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 68.2 free, 1713.5 used, 45.4 buff/cache
+MiB Swap: 820.0 total, 173.7 free, 646.3 used. 16.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1289576 889424 2496 R 47.1 47.5 2:50.26 mem.bash 26791 user 20 0 1289444 686636 2472 R 41.2 36.7 2:50.25 mem2.bash
+
+Five processes
+26790 user 20 0 1292744 888044 2496 R 50.0 47.5 2:50.76 mem.bash 26791 user 20 0 1292612 685268 2472 R 50.0 36.6 2:50.76 mem2.bash 1 root 20 0 253252 1468 1032 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.8 free, 1713.1 used, 47.2 buff/cache
+MiB Swap: 820.0 total, 164.8 free, 655.2 used. 16.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1296704 892004 2496 R 42.1 47.7 2:51.38 mem.bash 26791 user 20 0 1296572 689228 2472 R 36.8 36.8 2:51.37 mem2.bash
+
+Five processes
+26790 user 20 0 1300004 886852 2496 R 44.4 47.4 2:51.90 mem.bash 26791 user 20 0 1299740 684020 2472 R 38.9 36.6 2:51.89 mem2.bash 1 root 20 0 253252 1460 1024 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.4 free, 1715.6 used, 46.0 buff/cache
+MiB Swap: 820.0 total, 148.4 free, 671.5 used. 14.0 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1303832 890548 2496 R 42.1 47.6 2:52.51 mem.bash 26791 user 20 0 1303700 687980 2472 R 42.1 36.8 2:52.51 mem2.bash
+
+Five processes
+26790 user 20 0 1307000 891008 2496 R 53.3 47.6 2:53.01 mem.bash 26791 user 20 0 1306868 688512 2472 R 53.3 36.8 2:53.00 mem2.bash 1 root 20 0 253252 1460 1024 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.3 free, 1717.4 used, 45.3 buff/cache
+MiB Swap: 820.0 total, 143.4 free, 676.6 used. 12.6 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1310960 895232 2496 R 47.1 47.9 2:53.62 mem.bash 26791 user 20 0 1310828 692472 2472 R 41.2 37.0 2:53.61 mem2.bash
+
+Five processes
+26791 user 20 0 1314128 690616 2472 R 47.1 36.9 2:54.14 mem2.bash 26790 user 20 0 1314128 893400 2496 R 41.2 47.8 2:54.13 mem.bash 1 root 20 0 253252 1448 1016 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 67.2 free, 1715.0 used, 44.9 buff/cache
+MiB Swap: 820.0 total, 133.7 free, 686.3 used. 15.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1317824 694312 2472 R 52.9 37.1 2:54.75 mem2.bash 26790 user 20 0 1317956 897096 2496 R 47.1 47.9 2:54.74 mem.bash
+
+Five processes
+26790 user 20 0 1321256 894608 2496 R 41.2 47.8 2:55.26 mem.bash 26791 user 20 0 1321124 691884 2472 R 35.3 37.0 2:55.25 mem2.bash 47 root 20 0 0 0 0 R 11.8 0.0 36:46.24 kswapd0 1 root 20 0 253252 1440 1008 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 65.1 free, 1718.0 used, 44.0 buff/cache
+MiB Swap: 820.0 total, 122.0 free, 698.0 used. 12.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1325216 898564 2496 R 47.1 48.0 2:55.88 mem.bash 26791 user 20 0 1325084 695784 2472 R 41.2 37.2 2:55.88 mem2.bash
+
+Five processes
+26790 user 20 0 1329044 888388 2496 R 41.2 47.5 2:56.48 mem.bash 26791 user 20 0 1328912 694072 2472 R 41.2 37.1 2:56.48 mem2.bash 1 root 20 0 253252 1416 992 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.4 free, 1712.1 used, 43.5 buff/cache
+MiB Swap: 820.0 total, 102.9 free, 717.1 used. 18.8 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1333004 892348 2496 R 47.1 47.7 2:57.10 mem.bash 26791 user 20 0 1332740 697768 2472 R 41.2 37.3 2:57.09 mem2.bash
+
+Five processes
+26790 user 20 0 1336040 895516 2496 R 47.1 47.9 2:57.60 mem.bash 26791 user 20 0 1335908 700936 2472 R 47.1 37.5 2:57.61 mem2.bash 1 root 20 0 253252 1416 992 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.1 free, 1711.2 used, 45.7 buff/cache
+MiB Swap: 820.0 total, 85.4 free, 734.6 used. 18.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1340000 700060 2472 R 44.4 37.4 2:58.23 mem2.bash 26790 user 20 0 1340132 886444 2496 R 38.9 47.4 2:58.24 mem.bash
+
+Five processes
+26791 user 20 0 1343300 703492 2472 R 50.0 37.6 2:58.75 mem2.bash 26790 user 20 0 1343432 889612 2496 R 43.8 47.5 2:58.74 mem.bash 1 root 20 0 253252 1408 988 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 76.2 free, 1708.4 used, 42.5 buff/cache
+MiB Swap: 820.0 total, 70.2 free, 749.8 used. 23.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1347392 885776 2496 R 50.0 47.3 2:59.35 mem.bash 26791 user 20 0 1347128 699684 2472 R 43.8 37.4 2:59.34 mem2.bash
+
+Five processes
+26790 user 20 0 1350692 889208 2496 R 50.0 47.5 2:59.86 mem.bash 26791 user 20 0 1350428 702852 2472 R 50.0 37.6 2:59.86 mem2.bash 1 root 20 0 253252 1392 976 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 74.5 free, 1708.6 used, 44.0 buff/cache
+MiB Swap: 820.0 total, 60.6 free, 759.4 used. 22.1 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1354652 888264 2496 R 44.4 47.5 3:00.47 mem.bash 26791 user 20 0 1354520 701968 2472 R 44.4 37.5 3:00.47 mem2.bash
+
+Five processes
+26790 user 20 0 1358084 891696 2496 R 44.4 47.7 3:01.00 mem.bash 26791 user 20 0 1357688 705400 2472 R 38.9 37.7 3:00.99 mem2.bash 1 root 20 0 253252 1392 976 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.8 free, 1709.3 used, 45.9 buff/cache
+MiB Swap: 820.0 total, 49.7 free, 770.3 used. 20.4 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1361912 889780 2496 R 46.7 47.6 3:01.59 mem.bash 26791 user 20 0 1361648 703520 2472 R 46.7 37.6 3:01.59 mem2.bash
+
+Five processes
+26790 user 20 0 1365212 893212 2496 R 50.0 47.7 3:02.12 mem.bash 26791 user 20 0 1364816 706952 2472 R 38.9 37.8 3:02.10 mem2.bash 1 root 20 0 253252 1388 976 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 79.7 free, 1703.1 used, 44.3 buff/cache
+MiB Swap: 820.0 total, 26.2 free, 793.8 used. 27.5 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1369304 883352 2496 R 53.3 47.2 3:02.75 mem.bash 26791 user 20 0 1368908 700932 2472 R 46.7 37.5 3:02.74 mem2.bash
+
+Five processes
+26791 user 20 0 1372340 704364 2472 R 52.9 37.6 3:03.27 mem2.bash 26790 user 20 0 1372472 886520 2496 R 41.2 47.4 3:03.25 mem.bash 1 root 20 0 253252 1368 968 S 0.0 0.1 0:15.38 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.1 free, 1717.2 used, 44.7 buff/cache
+MiB Swap: 820.0 total, 14.5 free, 805.5 used. 23.2 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1376432 890216 2496 R 41.2 47.6 3:03.87 mem.bash 26791 user 20 0 1376168 708060 2472 R 41.2 37.8 3:03.87 mem2.bash
+
+Five processes
+26790 user 20 0 1379468 878772 2496 R 50.0 47.0 3:04.39 mem.bash 26791 user 20 0 1379204 708852 2472 R 50.0 37.9 3:04.39 mem2.bash 1 root 20 0 253252 3260 2796 S 0.0 0.2 0:15.39 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.4 free, 1714.9 used, 47.7 buff/cache
+MiB Swap: 820.0 total, 9.7 free, 810.3 used. 13.9 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1382900 882204 2496 R 42.1 47.2 3:05.00 mem.bash 26791 user 20 0 1382636 712284 2472 R 42.1 38.1 3:05.00 mem2.bash
+
+Five processes
+26791 user 20 0 1385804 710344 2472 R 47.1 38.0 3:05.55 mem2.bash 26790 user 20 0 1386068 880264 2496 R 41.2 47.1 3:05.54 mem.bash 1 root 20 0 253252 3260 2796 S 0.0 0.2 0:15.39 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.0 free, 1718.7 used, 37.3 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 9.7 avail Mem
+
+mem[2]+.bash info
+26790 user 20 0 1390028 884224 2496 R 47.1 47.3 3:06.16 mem.bash 26791 user 20 0 1389632 714040 2472 R 41.2 38.2 3:06.16 mem2.bash
+
+Five processes
+26791 user 20 0 1412996 736272 1352 R 93.8 39.4 3:15.46 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 930.9 free, 830.3 used, 65.9 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 889.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1417880 741288 1352 R 82.4 39.6 3:16.65 mem2.bash
+
+Five processes
+26791 user 20 0 1421444 744720 1352 R 77.8 39.8 3:17.54 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 922.4 free, 838.7 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 880.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1426064 749472 1352 R 93.3 40.1 3:18.69 mem2.bash
+
+Five processes
+26791 user 20 0 1431080 754488 1352 R 93.8 40.3 3:19.60 mem2.bash 5784 user 20 0 274272 1272 868 S 6.2 0.1 2:12.40 top 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 910.6 free, 850.5 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 869.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1438076 761856 1608 R 93.8 40.7 3:20.77 mem2.bash
+
+Five processes
+26791 user 20 0 1443092 766872 1608 R 82.4 41.0 3:21.68 mem2.bash 31506 user 20 0 274140 4424 3852 R 5.9 0.2 0:00.01 top 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 899.4 free, 861.6 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 857.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1449296 772944 1608 R 93.8 41.3 3:22.85 mem2.bash
+
+Five processes
+26791 user 20 0 1454972 778752 1608 R 93.8 41.6 3:23.76 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 886.9 free, 874.2 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 845.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1462364 785880 1608 R 88.2 42.0 3:24.94 mem2.bash
+
+Five processes
+26791 user 20 0 1466720 790368 1608 R 93.8 42.2 3:25.83 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 876.2 free, 884.9 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 834.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1473188 796968 1608 R 93.8 42.6 3:27.01 mem2.bash
+
+Five processes
+26791 user 20 0 1478600 802248 1608 R 93.8 42.9 3:27.91 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 863.3 free, 897.8 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 821.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1486124 809904 1608 R 93.8 43.3 3:29.08 mem2.bash
+
+Five processes
+26791 user 20 0 1492064 815712 1608 R 88.2 43.6 3:29.99 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 850.4 free, 910.7 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 808.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1499324 822840 1608 R 82.4 44.0 3:31.16 mem2.bash
+
+Five processes
+26791 user 20 0 1505132 828648 1608 R 93.8 44.3 3:32.06 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 837.9 free, 923.1 used, 66.0 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 796.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1512128 835776 1608 R 83.3 44.7 3:33.25 mem2.bash
+
+Five processes
+26791 user 20 0 1517276 841056 1608 R 93.8 45.0 3:34.15 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 825.9 free, 935.1 used, 66.1 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 784.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1524404 847920 1608 R 88.2 45.3 3:35.33 mem2.bash
+
+Five processes
+26791 user 20 0 1529552 853200 1608 R 88.2 45.6 3:36.23 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 813.9 free, 947.0 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 772.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1536680 860328 1608 R 88.2 46.0 3:37.41 mem2.bash
+
+Five processes
+26791 user 20 0 1542224 865872 1608 R 93.8 46.3 3:38.31 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 800.8 free, 960.0 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 759.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1549748 873264 1608 R 87.5 46.7 3:39.49 mem2.bash
+
+Five processes
+26791 user 20 0 1555292 879072 1608 R 93.8 47.0 3:40.39 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 788.4 free, 972.4 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 747.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1562684 886464 1608 R 88.2 47.4 3:41.56 mem2.bash
+
+Five processes
+26791 user 20 0 1566248 889896 1608 R 93.8 47.6 3:42.47 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 779.4 free, 981.4 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 737.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1571792 895440 1608 R 93.8 47.9 3:43.64 mem2.bash
+
+Five processes
+26791 user 20 0 1577468 901248 1608 R 88.2 48.2 3:44.58 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 767.8 free, 993.0 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 726.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1583672 907320 1608 R 99.9 48.5 3:45.76 mem2.bash
+
+Five processes
+26791 user 20 0 1588424 912072 1608 R 82.4 48.8 3:46.66 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 757.5 free, 1003.4 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 716.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1594496 918144 1608 R 88.2 49.1 3:47.83 mem2.bash
+
+Five processes
+26791 user 20 0 1598984 922632 1608 R 99.9 49.3 3:48.74 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 746.7 free, 1014.1 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 705.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1605188 928968 1608 R 87.5 49.7 3:49.90 mem2.bash
+
+Five processes
+26791 user 20 0 1609676 933456 1608 R 93.8 49.9 3:50.80 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 736.7 free, 1024.2 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 695.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1615484 939000 1608 R 82.4 50.2 3:51.97 mem2.bash
+
+Five processes
+26791 user 20 0 1620500 944280 1608 R 87.5 50.5 3:52.87 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 725.0 free, 1035.9 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 683.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1627628 951144 1608 R 88.2 50.8 3:54.05 mem2.bash
+
+Five processes
+26791 user 20 0 1632380 956160 1608 R 82.4 51.1 3:54.95 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 714.1 free, 1046.8 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 672.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1638584 962232 1608 R 82.4 51.4 3:56.12 mem2.bash
+
+Five processes
+26791 user 20 0 1643468 967248 1608 R 88.2 51.7 3:57.03 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 703.4 free, 1057.4 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 662.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1649408 973056 1608 R 88.2 52.0 3:58.21 mem2.bash
+
+Five processes
+26791 user 20 0 1654424 978072 1608 R 83.3 52.3 3:59.10 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 692.4 free, 1068.4 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 651.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1660760 984408 1608 R 88.2 52.6 4:00.28 mem2.bash
+
+Five processes
+26791 user 20 0 1665776 989424 1608 R 99.9 52.9 4:01.17 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 680.7 free, 1080.2 used, 66.2 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 639.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1672508 996288 1608 R 93.8 53.3 4:02.34 mem2.bash
+
+Five processes
+26791 user 20 0 1678184 978.4m 1608 R 82.4 53.5 4:03.24 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 667.9 free, 1092.8 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 626.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1685576 985.6m 1608 R 88.2 53.9 4:04.43 mem2.bash
+
+Five processes
+26791 user 20 0 1690988 991.0m 1608 R 93.8 54.2 4:05.32 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 656.3 free, 1104.4 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 615.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1697588 997.2m 1608 R 88.2 54.6 4:06.49 mem2.bash
+
+Five processes
+26791 user 20 0 1702868 1.0g 1608 R 88.9 54.9 4:07.41 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 644.4 free, 1116.3 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 603.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1709600 1.0g 1608 R 88.2 55.2 4:08.58 mem2.bash
+
+Five processes
+26791 user 20 0 1715012 1.0g 1608 R 93.8 55.5 4:09.49 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 632.3 free, 1128.4 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 591.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1721876 1.0g 1608 R 88.2 55.9 4:10.66 mem2.bash
+
+Five processes
+26791 user 20 0 1726892 1.0g 1608 R 99.9 56.2 4:11.56 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 621.6 free, 1139.1 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 580.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1732964 1.0g 1608 R 87.5 56.5 4:12.73 mem2.bash
+
+Five processes
+26791 user 20 0 1737716 1.0g 1608 R 88.2 56.7 4:13.63 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 610.5 free, 1150.2 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 569.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1744184 1.0g 1608 R 88.2 57.1 4:14.81 mem2.bash
+
+Five processes
+26791 user 20 0 1749596 1.0g 1608 R 88.2 57.4 4:15.71 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 598.1 free, 1162.6 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 556.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1756856 1.0g 1608 R 88.2 57.8 4:16.89 mem2.bash
+
+Five processes
+26791 user 20 0 1762136 1.0g 1608 R 88.2 58.0 4:17.79 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 586.0 free, 1174.7 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 544.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1769264 1.0g 1608 R 93.8 58.4 4:18.98 mem2.bash
+
+Five processes
+26791 user 20 0 1774676 1.0g 1608 R 83.3 58.7 4:19.89 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 573.3 free, 1187.4 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 531.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1782200 1.1g 1608 R 88.2 59.1 4:21.08 mem2.bash
+
+Five processes
+26791 user 20 0 1787876 1.1g 1608 R 93.8 59.4 4:21.99 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 561.0 free, 1199.7 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 519.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1794872 1.1g 1608 R 88.2 59.8 4:23.17 mem2.bash
+
+Five processes
+26791 user 20 0 1800416 1.1g 1608 R 93.8 60.1 4:24.07 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 548.6 free, 1212.0 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 507.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1807280 1.1g 1608 R 88.2 60.4 4:25.25 mem2.bash
+
+Five processes
+26791 user 20 0 1812692 1.1g 1608 R 88.2 60.7 4:26.15 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 536.9 free, 1223.8 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 495.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1819424 1.1g 1608 R 88.2 61.1 4:27.33 mem2.bash
+
+Five processes
+26791 user 20 0 1824836 1.1g 1608 R 88.2 61.4 4:28.21 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 524.3 free, 1236.4 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 482.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1832360 1.1g 1608 R 88.2 61.8 4:29.40 mem2.bash
+
+Five processes
+26791 user 20 0 1837904 1.1g 1608 R 88.2 62.1 4:30.30 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 511.5 free, 1249.2 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 470.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1845296 1.1g 1608 R 88.2 62.5 4:31.47 mem2.bash
+
+Five processes
+26791 user 20 0 1850972 1.1g 1608 R 88.2 62.8 4:32.37 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 498.7 free, 1262.0 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 457.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1858496 1.1g 1608 R 82.4 63.2 4:33.55 mem2.bash
+
+Five processes
+26791 user 20 0 1864040 1.1g 1608 R 93.8 63.5 4:34.46 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 487.9 free, 1272.8 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 446.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1869716 1.1g 1608 R 82.4 63.8 4:35.63 mem2.bash
+
+Five processes
+26791 user 20 0 1874204 1.1g 1608 R 94.1 64.0 4:36.54 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 477.9 free, 1282.8 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 436.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1879616 1.1g 1608 R 93.8 64.3 4:37.71 mem2.bash
+
+Five processes
+26791 user 20 0 1884236 1.2g 1608 R 87.5 64.6 4:38.59 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 467.0 free, 1293.7 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 425.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1890836 1.2g 1608 R 99.9 64.9 4:39.78 mem2.bash
+
+Five processes
+26791 user 20 0 1895852 1.2g 1608 R 93.8 65.2 4:40.67 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 455.4 free, 1305.3 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 414.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1902716 1.2g 1608 R 93.8 65.5 4:41.85 mem2.bash
+
+Five processes
+26791 user 20 0 1907732 1.2g 1608 R 88.2 65.8 4:42.75 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 443.3 free, 1317.4 used, 66.4 buff/cache
+MiB Swap: 820.0 total, 280.1 free, 539.9 used. 401.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1915124 1.2g 1608 R 88.2 66.2 4:43.93 mem2.bash
+
+Five processes
+26791 user 20 0 1920272 1.2g 1608 R 88.2 66.5 4:44.80 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 425.8 free, 1329.8 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 387.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1926872 1.2g 1608 R 93.8 66.8 4:45.95 mem2.bash
+
+Five processes
+26791 user 20 0 1931228 1.2g 1608 R 93.8 67.1 4:46.85 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 414.6 free, 1341.0 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 375.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1938224 1.2g 1608 R 82.4 67.4 4:48.02 mem2.bash
+
+Five processes
+26791 user 20 0 1943768 1.2g 1608 R 93.8 67.7 4:48.93 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 402.0 free, 1353.6 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 363.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1951160 1.2g 1608 R 88.2 68.1 4:50.11 mem2.bash
+
+Five processes
+26791 user 20 0 1956704 1.2g 1608 R 88.2 68.4 4:51.00 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 389.7 free, 1365.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 350.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1963700 1.2g 1608 R 93.8 68.8 4:52.19 mem2.bash
+
+Five processes
+26791 user 20 0 1969112 1.2g 1608 R 93.8 69.1 4:53.08 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 377.1 free, 1378.5 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 338.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1976504 1.2g 1608 R 88.2 69.5 4:54.27 mem2.bash
+
+Five processes
+26791 user 20 0 1982048 1.2g 1608 R 88.2 69.8 4:55.17 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 364.4 free, 1391.2 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 325.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 1989572 1.3g 1608 R 88.2 70.2 4:56.35 mem2.bash
+
+Five processes
+26791 user 20 0 1995116 1.3g 1608 R 93.8 70.5 4:57.25 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 351.7 free, 1403.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 312.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2002508 1.3g 1608 R 88.2 70.9 4:58.43 mem2.bash
+
+Five processes
+26791 user 20 0 2008184 1.3g 1608 R 93.8 71.2 4:59.33 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 338.8 free, 1416.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 299.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2015708 1.3g 1608 R 99.9 71.6 5:00.53 mem2.bash
+
+Five processes
+26791 user 20 0 2021384 1.3g 1608 R 93.8 71.9 5:01.43 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 325.9 free, 1429.7 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 287.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2028908 1.3g 1608 R 88.2 72.3 5:02.60 mem2.bash
+
+Five processes
+26791 user 20 0 2034320 1.3g 1608 R 88.2 72.6 5:03.50 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 313.5 free, 1442.1 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 274.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2041448 1.3g 1608 R 88.2 73.0 5:04.68 mem2.bash
+
+Five processes
+26791 user 20 0 2046992 1.3g 1608 R 82.4 73.3 5:05.58 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 300.9 free, 1454.7 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 262.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2054384 1.3g 1608 R 94.1 73.7 5:06.77 mem2.bash
+
+Five processes
+26791 user 20 0 2059664 1.3g 1608 R 88.2 73.9 5:07.66 mem2.bash 9 root 20 0 0 0 0 S 5.9 0.0 0:03.75 ksoftirqd/0 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 288.3 free, 1467.3 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 249.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2067188 1.3g 1608 R 93.8 74.3 5:08.85 mem2.bash
+
+Five processes
+26791 user 20 0 2072864 1.3g 1608 R 88.2 74.6 5:09.75 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 275.9 free, 1479.7 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 237.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2079860 1.3g 1608 R 88.2 75.0 5:10.93 mem2.bash
+
+Five processes
+26791 user 20 0 2085404 1.3g 1608 R 88.2 75.3 5:11.83 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 263.4 free, 1492.3 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 224.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2092796 1.4g 1608 R 83.3 75.7 5:13.01 mem2.bash
+
+Five processes
+26791 user 20 0 2098472 1.4g 1608 R 88.2 76.0 5:13.92 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 250.6 free, 1505.0 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 211.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2105864 1.4g 1608 R 88.2 76.4 5:15.10 mem2.bash
+
+Five processes
+26791 user 20 0 2111144 1.4g 1608 R 93.8 76.7 5:15.98 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 238.2 free, 1517.4 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 199.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2118536 1.4g 1608 R 93.8 77.1 5:17.17 mem2.bash
+
+Five processes
+26791 user 20 0 2124212 1.4g 1608 R 88.2 77.4 5:18.07 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 225.7 free, 1529.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 186.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2131472 1.4g 1608 R 88.2 77.8 5:19.26 mem2.bash
+
+Five processes
+26791 user 20 0 2136752 1.4g 1608 R 93.8 78.1 5:20.16 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 213.2 free, 1542.4 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 174.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2144144 1.4g 1608 R 93.8 78.5 5:21.34 mem2.bash
+
+Five processes
+26791 user 20 0 2149424 1.4g 1608 R 88.2 78.7 5:22.24 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 200.8 free, 1554.8 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 161.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2156684 1.4g 1608 R 88.2 79.1 5:23.43 mem2.bash
+
+Five processes
+26791 user 20 0 2162228 1.4g 1608 R 82.4 79.4 5:24.32 mem2.bash 5784 user 20 0 274272 1272 868 S 5.9 0.1 2:12.58 top 26733 root 20 0 0 0 0 I 5.9 0.0 0:01.08 kworker/0:1-events 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 188.0 free, 1567.6 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 149.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2169752 1.4g 1608 R 88.2 79.8 5:25.51 mem2.bash
+
+Five processes
+26791 user 20 0 2175428 1.4g 1608 R 93.8 80.1 5:26.40 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 175.9 free, 1579.7 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 137.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2182292 1.4g 1608 R 99.9 80.5 5:27.59 mem2.bash
+
+Five processes
+26791 user 20 0 2187176 1.4g 1608 R 88.2 80.8 5:28.47 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 165.9 free, 1589.7 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 127.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2192720 1.4g 1608 R 93.8 81.1 5:29.64 mem2.bash
+
+Five processes
+26791 user 20 0 2196284 1.4g 1608 R 82.4 81.2 5:30.51 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 155.6 free, 1599.2 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 117.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2202224 1.5g 1608 R 82.4 81.6 5:31.68 mem2.bash
+
+Five processes
+26791 user 20 0 2206712 1.5g 1608 R 87.5 81.8 5:32.56 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 146.5 free, 1608.3 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 108.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2211728 1.5g 1608 R 83.3 82.1 5:33.72 mem2.bash
+
+Five processes
+26791 user 20 0 2215028 1.5g 1608 R 88.2 82.2 5:34.60 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 139.2 free, 1615.5 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 101.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2219120 1.5g 1608 R 88.2 82.5 5:35.71 mem2.bash
+
+Five processes
+26791 user 20 0 2222156 1.5g 1608 R 77.8 82.6 5:36.57 mem2.bash 33326 user 20 0 274140 4492 3920 R 5.6 0.2 0:00.01 top 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 132.7 free, 1622.1 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 94.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2225852 1.5g 1608 R 87.5 82.8 5:37.70 mem2.bash
+
+Five processes
+26791 user 20 0 2229284 1.5g 1608 R 82.4 83.0 5:38.58 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 125.0 free, 1629.8 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 86.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2233904 1.5g 1608 R 87.5 83.3 5:39.72 mem2.bash
+
+Five processes
+26791 user 20 0 2237996 1.5g 1608 R 87.5 83.5 5:40.61 mem2.bash 5784 user 20 0 274272 1272 868 S 6.2 0.1 2:12.61 top 31413 root 20 0 0 0 0 I 6.2 0.0 0:00.08 kworker/0:0-events 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd
+
+System parameters
+MiB Mem : 1827.1 total, 113.8 free, 1640.9 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 75.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2244596 1.5g 1608 R 99.9 83.8 5:41.80 mem2.bash
+
+Five processes
+26791 user 20 0 2250140 1.5g 1608 R 93.8 84.1 5:42.69 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 101.6 free, 1653.2 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 63.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2257268 1.5g 1608 R 99.9 84.5 5:43.87 mem2.bash
+
+Five processes
+26791 user 20 0 2262548 1.5g 1608 R 94.1 84.8 5:44.77 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 89.3 free, 1665.4 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 50.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2269676 1.5g 1608 R 93.8 85.2 5:45.95 mem2.bash
+
+Five processes
+26791 user 20 0 2274956 1.5g 1608 R 93.8 85.5 5:46.82 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 77.0 free, 1677.7 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 38.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2282216 1.5g 1608 R 88.2 85.8 5:48.01 mem2.bash
+
+Five processes
+26791 user 20 0 2287760 1.5g 1608 R 88.2 86.1 5:48.92 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.9 free, 1690.8 used, 72.3 buff/cache
+MiB Swap: 820.0 total, 280.9 free, 539.1 used. 25.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2295284 1.5g 1608 R 93.8 86.5 5:50.09 mem2.bash
+
+Five processes
+26791 user 20 0 2302148 1.6g 1608 R 93.8 86.9 5:51.14 mem2.bash 1 root 20 0 253252 1688 1212 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 62.2 free, 1704.2 used, 60.6 buff/cache
+MiB Swap: 820.0 total, 279.8 free, 540.2 used. 25.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2309804 1.6g 1608 R 93.8 87.3 5:52.33 mem2.bash
+
+Five processes
+26791 user 20 0 2316404 1.6g 1608 R 93.8 87.6 5:53.36 mem2.bash 1 root 20 0 253252 1628 1168 S 0.0 0.1 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 69.0 free, 1709.7 used, 48.4 buff/cache
+MiB Swap: 820.0 total, 272.1 free, 547.9 used. 18.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2324588 1.6g 1584 R 93.8 87.6 5:54.62 mem2.bash
+
+Five processes
+26791 user 20 0 2330792 1.6g 1576 R 93.8 87.6 5:55.61 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.1 free, 1716.3 used, 47.6 buff/cache
+MiB Swap: 820.0 total, 264.9 free, 555.1 used. 12.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2338712 1.6g 1576 R 93.8 88.0 5:56.85 mem2.bash
+
+Five processes
+26791 user 20 0 2345444 1.6g 1576 R 99.9 87.6 5:57.88 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.4 free, 1717.9 used, 45.8 buff/cache
+MiB Swap: 820.0 total, 250.9 free, 569.1 used. 11.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2353100 1.6g 1576 R 93.8 88.0 5:59.08 mem2.bash
+
+Five processes
+26791 user 20 0 2358908 1.6g 1576 R 88.2 87.5 6:00.03 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 69.7 free, 1711.2 used, 46.1 buff/cache
+MiB Swap: 820.0 total, 236.0 free, 584.0 used. 18.5 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2363132 1.6g 1576 R 93.8 87.7 6:01.17 mem2.bash
+
+Five processes
+26791 user 20 0 2367488 1.6g 1576 R 82.4 88.0 6:02.06 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 72.3 free, 1710.6 used, 44.1 buff/cache
+MiB Swap: 820.0 total, 226.2 free, 593.8 used. 20.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2373164 1.6g 1576 R 75.0 87.7 6:03.23 mem2.bash
+
+Five processes
+26791 user 20 0 2377652 1.6g 1576 R 93.8 88.0 6:04.13 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 77.0 free, 1706.1 used, 44.0 buff/cache
+MiB Swap: 820.0 total, 211.4 free, 608.6 used. 24.7 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2383196 1.6g 1576 R 70.6 87.5 6:05.27 mem2.bash
+
+Five processes
+26791 user 20 0 2387948 1.6g 1576 R 88.2 87.7 6:06.20 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.4 free, 1715.6 used, 48.1 buff/cache
+MiB Swap: 820.0 total, 211.4 free, 608.6 used. 13.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2393096 1.6g 1576 R 82.4 88.0 6:07.36 mem2.bash
+
+Five processes
+26791 user 20 0 2399564 1.6g 1576 R 88.2 87.5 6:08.41 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.0 free, 1714.7 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 196.4 free, 623.6 used. 14.9 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2407088 1.6g 1576 R 99.9 87.9 6:09.59 mem2.bash
+
+Five processes
+26791 user 20 0 2412632 1.6g 1576 R 93.8 87.4 6:10.49 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.7 free, 1711.1 used, 45.2 buff/cache
+MiB Swap: 820.0 total, 181.1 free, 638.9 used. 19.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2418968 1.6g 1576 R 88.2 87.7 6:11.67 mem2.bash
+
+Five processes
+26791 user 20 0 2424776 1.6g 1576 R 82.4 88.0 6:12.57 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.9 free, 1712.0 used, 43.1 buff/cache
+MiB Swap: 820.0 total, 168.9 free, 651.1 used. 19.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2432432 1.6g 1576 R 88.2 87.8 6:13.79 mem2.bash
+
+Five processes
+26791 user 20 0 2437712 1.6g 1576 R 99.9 88.1 6:14.67 mem2.bash 1 root 20 0 253252 460 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.5 free, 1713.9 used, 47.7 buff/cache
+MiB Swap: 820.0 total, 157.6 free, 662.4 used. 15.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2445236 1.6g 1576 R 93.8 87.9 6:15.85 mem2.bash
+
+Five processes
+26791 user 20 0 2450648 1.6g 1576 R 93.8 87.2 6:16.73 mem2.bash 1 root 20 0 253252 428 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.7 free, 1709.5 used, 46.8 buff/cache
+MiB Swap: 820.0 total, 140.9 free, 679.1 used. 20.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2457908 1.6g 1576 R 93.8 87.6 6:17.90 mem2.bash
+
+Five processes
+26791 user 20 0 2462528 1.6g 1576 R 82.4 87.9 6:18.80 mem2.bash 33886 user 20 0 274140 4444 3872 R 5.9 0.2 0:00.01 top 1 root 20 0 253252 428 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.1 free, 1717.0 used, 46.9 buff/cache
+MiB Swap: 820.0 total, 140.9 free, 679.1 used. 12.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2466092 1.6g 1576 R 82.4 88.1 6:19.92 mem2.bash
+
+Five processes
+26791 user 20 0 2469788 1.6g 1576 R 88.2 87.3 6:20.83 mem2.bash 887 root 20 0 680848 788 0 S 5.9 0.0 0:07.52 NetworkManager 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.3 free, 1709.5 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 123.1 free, 696.9 used. 20.4 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2475596 1.6g 1576 R 88.2 87.6 6:22.02 mem2.bash
+
+Five processes
+26791 user 20 0 2479820 1.6g 1576 R 83.3 87.8 6:22.91 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 62.8 free, 1718.0 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 123.1 free, 696.9 used. 12.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2484572 1.6g 1576 R 82.4 88.1 6:24.07 mem2.bash
+
+Five processes
+26791 user 20 0 2488532 1.6g 1576 R 93.8 87.7 6:24.94 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 66.1 free, 1715.8 used, 45.1 buff/cache
+MiB Swap: 820.0 total, 111.6 free, 708.4 used. 14.8 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2494208 1.6g 1576 R 93.8 88.0 6:26.10 mem2.bash
+
+Five processes
+26791 user 20 0 2499356 1.6g 1576 R 93.3 88.2 6:26.97 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.7 free, 1713.3 used, 43.1 buff/cache
+MiB Swap: 820.0 total, 96.3 free, 723.7 used. 18.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2506220 1.6g 1576 R 88.2 87.8 6:28.22 mem2.bash
+
+Five processes
+26791 user 20 0 2511104 1.6g 1576 R 93.8 88.0 6:29.11 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.9 free, 1711.4 used, 44.7 buff/cache
+MiB Swap: 820.0 total, 83.0 free, 736.9 used. 19.1 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2517704 1.6g 1576 R 99.9 87.7 6:30.28 mem2.bash
+
+Five processes
+26791 user 20 0 2522588 1.6g 1576 R 88.2 87.9 6:31.16 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 71.8 free, 1707.8 used, 47.4 buff/cache
+MiB Swap: 820.0 total, 67.4 free, 752.6 used. 21.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2529848 1.6g 1576 R 88.2 87.5 6:32.36 mem2.bash
+
+Five processes
+26791 user 20 0 2535656 1.6g 1576 R 99.9 87.8 6:33.26 mem2.bash 1 root 20 0 253252 412 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 76.3 free, 1706.5 used, 44.2 buff/cache
+MiB Swap: 820.0 total, 51.1 free, 768.9 used. 24.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2543048 1.6g 1576 R 94.1 87.3 6:34.42 mem2.bash
+
+Five processes
+26791 user 20 0 2548724 1.6g 1576 R 82.4 87.6 6:35.29 mem2.bash 1 root 20 0 253252 408 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 63.6 free, 1719.2 used, 44.3 buff/cache
+MiB Swap: 820.0 total, 51.1 free, 768.9 used. 11.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2556116 1.6g 1576 R 93.8 88.0 6:36.46 mem2.bash
+
+Five processes
+26791 user 20 0 2561264 1.6g 1576 R 88.2 87.7 6:37.35 mem2.bash 1 root 20 0 253252 408 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 65.2 free, 1718.4 used, 43.4 buff/cache
+MiB Swap: 820.0 total, 41.2 free, 778.8 used. 13.0 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2567072 1.6g 1576 R 84.2 88.0 6:38.54 mem2.bash
+
+Five processes
+26791 user 20 0 2571560 1.6g 1576 R 99.9 86.9 6:39.41 mem2.bash 1 root 20 0 253252 404 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 76.2 free, 1708.2 used, 42.6 buff/cache
+MiB Swap: 820.0 total, 16.6 free, 803.4 used. 23.6 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2577236 1.6g 1576 R 88.2 87.2 6:40.61 mem2.bash
+
+Five processes
+26791 user 20 0 2581592 1.6g 1576 R 99.9 87.5 6:41.51 mem2.bash 1 root 20 0 253252 404 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 64.7 free, 1717.7 used, 44.6 buff/cache
+MiB Swap: 820.0 total, 16.6 free, 803.4 used. 13.2 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2587004 1.6g 1576 R 82.4 87.8 6:42.67 mem2.bash
+
+Five processes
+26791 user 20 0 2591624 1.6g 1576 R 99.9 87.6 6:43.63 mem2.bash 1 root 20 0 253252 400 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 67.1 free, 1716.5 used, 43.5 buff/cache
+MiB Swap: 820.0 total, 8.9 free, 811.1 used. 15.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2597168 1.6g 1576 R 82.4 87.9 6:44.78 mem2.bash
+
+Five processes
+26791 user 20 0 2601392 1.6g 1576 R 93.8 88.1 6:45.69 mem2.bash 1 root 20 0 253252 400 0 S 0.0 0.0 0:15.75 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp
+
+System parameters
+MiB Mem : 1827.1 total, 70.8 free, 1718.9 used, 37.4 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 8.3 avail Mem
+
+mem[2]+.bash info
+26791 user 20 0 2608520 1.6g 1576 R 99.9 88.0 6:46.85 mem2.bash
+
+Five processes
+1 root 20 0 253252 360 0 S 0.0 0.0 0:17.19 systemd 2 root 20 0 0 0 0 S 0.0 0.0 0:00.00 kthreadd 3 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_gp 4 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 rcu_par_gp 6 root 0 -20 0 0 0 I 0.0 0.0 0:00.00 kworker/0:0H-kblockd
+
+[24484.933806] Out of memory: Killed process 26790 (mem.bash) total-vm:1403756kB, anon-rss:895588kB, file-rss:0kB, shmem-rss:0kB, UID:1000 [24485.137790] oom_reaper: reaped process 26790 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[25545.175646] [26791] 1000 26791 659456 417980 4911104 185915 0 mem2.bash [25545.178488] Out of memory: Killed process 26791 (mem2.bash) total-vm:2637824kB, anon-rss:1671920kB, file-rss:0kB, shmem-rss:0kB, UID:1000

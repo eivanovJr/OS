@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./1.2handler.bash &
+./mem.bash &
+./mem2.bash &
+exit

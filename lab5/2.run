@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for((m=0;m<$1;m++))
+do
+	sleep 1s
+	./newmem.bash $2 &
+done
