@@ -1,0 +1,13 @@
+
+Drives: C:\ D:\ E:\ 
+Total Physical Memory:     8 071 MB
+Available Physical Memory: 1 391 MB
+Virtual Memory: Max Size:  12 092 MB
+Virtual Memory: Available: 2 409 MB
+Virtual Memory: In Use:    9 683 MB
+OS Name:                   Майкрософт Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+BIOS Version:              American Megatrends Inc. X510UF.303, 17.04.2019

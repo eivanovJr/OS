@@ -1,0 +1,8 @@
+script.bat contains :
+robocopy c:\Windows \\WINDOWS-H5PEEVV\temp explorer.exe /B /Z /IPG:1000
+
+commands:
+schtasks /create /sc MINUTE /tn "script.bat" /tr e:\lab6\2\script.bat /MO 1
+tasklist
+taskkill /f /pid 8472
+schtasks /delete /tn "script.bat" (удаление задачи)

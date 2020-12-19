@@ -1,0 +1,6 @@
+OS Name:                   Майкрософт Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+BIOS Version:              American Megatrends Inc. X510UF.303, 17.04.2019

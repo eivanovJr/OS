@@ -1,0 +1,1 @@
+robocopy c:\Windows \\WINDOWS-H5PEEVV\temp explorer.exe /B /Z /IPG:1000

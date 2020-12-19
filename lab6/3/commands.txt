@@ -1,0 +1,5 @@
+sc query type= service  > services.txt
+sc stop dnscache
+sc query type= service > servicesafter.txt
+sc start dnscache
+

@@ -1,0 +1,2 @@
+sc query type= driver | findstr "SERVICE_NAME" > drivers.txt
+sort /R /+12 drivers.txt > sorted_drivers.txt

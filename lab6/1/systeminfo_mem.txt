@@ -1,0 +1,5 @@
+Total Physical Memory:     8 071 MB
+Available Physical Memory: 1 391 MB
+Virtual Memory: Max Size:  12 092 MB
+Virtual Memory: Available: 2 409 MB
+Virtual Memory: In Use:    9 683 MB

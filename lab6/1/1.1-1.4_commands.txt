@@ -1,0 +1,9 @@
+systeminfo | findstr "Memory:" > systeminfo_mem.txt
+fsutil fsinfo drives > fsutil.txt
+systeminfo | findstr "OS" > systeminfo_OS.txt
+mkdir TEST
+cd TEST
+copy E:\lab6 TEST
+cd TEST
+copy E:\lab6 result.txt
+/F "skip=1" %i IN ('dir /B /O:-D') DO del "%i"
